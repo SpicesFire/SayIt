@@ -42,7 +42,7 @@ Audio is processed in memory on your computer and never saved or sent anywhere, 
 
 ## Help
 
-Questions or bugs: [Discord](https://discord.gg/utuKpP7XCa). Tell us your Minecraft version, loader and the language you're learning.
+Questions or bugs: [Discord](https://discord.gg/TM4pNVUktW). Tell us your Minecraft version, loader and the language you're learning.
 
 ---
 
