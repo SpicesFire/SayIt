@@ -4,7 +4,7 @@
 
 **Pick up an item, say its name out loud in the language you're learning, or lose it.**
 
-A Minecraft mod for learning a language by speaking. 15 languages: English, Mandarin Chinese, Japanese, Korean, German, Spanish, French, Italian, Portuguese, Polish, Russian, Ukrainian, Turkish, Norwegian and Hungarian. Speech recognition runs offline on your own PC.
+A Minecraft mod for learning a language by speaking. 17 languages: English, Mandarin Chinese, Japanese, Korean, German, Spanish, French, Italian, Portuguese, Polish, Russian, Ukrainian, Turkish, Norwegian, Hungarian, Swedish and Finnish. Speech recognition runs offline on your own PC.
 
 **Main page and downloads: https://spicesfire.com/sayit/**
 
