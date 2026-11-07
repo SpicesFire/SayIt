@@ -47,3 +47,7 @@ Questions or bugs: [Discord](https://discord.gg/TM4pNVUktW). Tell us your Minecr
 ---
 
 Made by SpicesFire. Bundled third-party libraries (Vosk, whisper.cpp) keep their own licenses; see `THIRD_PARTY_NOTICES_sayitenglish.txt` inside the jar.
+
+## Help with the languages
+
+The texts SayIt shows and the sentences it asks you to say are open here, for all 17 languages: **[language-data](language-data/)**. Found a mistake or a clumsy phrase? Propose a fix, the guide is in that folder.

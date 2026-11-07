@@ -1,0 +1,14 @@
+name: Check language data
+on:
+  pull_request:
+    paths:
+      - "language-data/**"
+  push:
+    paths:
+      - "language-data/**"
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 language-data/check.py
