@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "Opettaja: vapaa",
   "sayitenglish.layout.teacher_locked": "Opettaja: paneelin vieressä",
   "sayitenglish.panel.custom": "Oma paikka",
-  "sayitenglish.settings.readings": "Lukutapa-rivi: %s"
+  "sayitenglish.settings.readings": "Lukutapa-rivi: %s",
+  "sayitenglish.penalty.explosion": "Räjähdys",
+  "sayitenglish.hud.lost.explosion": "PAM!",
+  "sayitenglish.chat.streak_reward": "§aPutkibonus: +%s XP",
+  "sayitenglish.chat.streak_diamond": "§bViikko putkeen: timantti ja +%s XP!",
+  "sayitenglish.chat.owed": "%s oli piilossa kysymyksen aikana, joten se otetaan nyt.",
+  "key.sayitenglish.look": "Nimeä mitä katsot",
+  "sayitenglish.look.nothing": "Katso ensin jotain kuutiota tai olentoa."
 }

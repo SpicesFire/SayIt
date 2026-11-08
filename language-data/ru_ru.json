@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "Учитель: свободно",
   "sayitenglish.layout.teacher_locked": "Учитель: рядом с панелью",
   "sayitenglish.panel.custom": "Своё место",
-  "sayitenglish.settings.readings": "Строка чтения: %s"
+  "sayitenglish.settings.readings": "Строка чтения: %s",
+  "sayitenglish.penalty.explosion": "Взрыв",
+  "sayitenglish.hud.lost.explosion": "БУМ!",
+  "sayitenglish.chat.streak_reward": "§aБонус за серию: +%s опыта",
+  "sayitenglish.chat.streak_diamond": "§bНеделя подряд: алмаз и +%s опыта!",
+  "sayitenglish.chat.owed": "%s был спрятан во время вопроса, поэтому забирается сейчас.",
+  "key.sayitenglish.look": "Назвать то, на что смотришь",
+  "sayitenglish.look.nothing": "Сначала посмотри на блок или существо."
 }

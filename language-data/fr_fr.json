@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "Professeur : libre",
   "sayitenglish.layout.teacher_locked": "Professeur : à côté du panneau",
   "sayitenglish.panel.custom": "Ton emplacement",
-  "sayitenglish.settings.readings": "Ligne de lecture : %s"
+  "sayitenglish.settings.readings": "Ligne de lecture : %s",
+  "sayitenglish.penalty.explosion": "Explosion",
+  "sayitenglish.hud.lost.explosion": "BOUM !",
+  "sayitenglish.chat.streak_reward": "§aBonus de série : +%s XP",
+  "sayitenglish.chat.streak_diamond": "§bUne semaine de série : un diamant et +%s XP !",
+  "sayitenglish.chat.owed": "%s était caché pendant sa question, il est donc pris maintenant.",
+  "key.sayitenglish.look": "Nommer ce que tu regardes",
+  "sayitenglish.look.nothing": "Regarde d'abord un bloc ou une créature."
 }

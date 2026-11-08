@@ -31,7 +31,7 @@ The names of items, blocks and mobs are **not** here. Those come from Minecraft'
 
 **Not comfortable with pull requests?** [Open an issue](https://github.com/SpicesFire/SayIt/issues/new) with the language, the key (the part on the left, like `sayitenglish.s.craft.1`), the current text and your better text.
 
-**Wrong furigana or reading?** Open an issue with the word, the wrong reading and the right one. The Japanese readings come from a dictionary and are sometimes wrong. A small table of corrections is planned.
+**Wrong furigana or reading?** The Japanese readings come from a dictionary and are sometimes wrong. Fix them in `reading_overrides.json`: add a line with the word exactly as the game shows it and how it is read, in hiragana or katakana, for example `"木の斧": "きのおの"`. Or open an issue with the word, the wrong reading and the right one.
 
 ## Rules
 

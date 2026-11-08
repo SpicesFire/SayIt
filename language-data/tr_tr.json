@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "Öğretmen: serbest",
   "sayitenglish.layout.teacher_locked": "Öğretmen: panelin yanında",
   "sayitenglish.panel.custom": "Senin yerin",
-  "sayitenglish.settings.readings": "Okunuş satırı: %s"
+  "sayitenglish.settings.readings": "Okunuş satırı: %s",
+  "sayitenglish.penalty.explosion": "Patlama",
+  "sayitenglish.hud.lost.explosion": "BUM!",
+  "sayitenglish.chat.streak_reward": "§aSeri bonusu: +%s XP",
+  "sayitenglish.chat.streak_diamond": "§bBir haftalık seri: bir elmas ve +%s XP!",
+  "sayitenglish.chat.owed": "%s sorusu sırasında saklanmıştı, bu yüzden şimdi alındı.",
+  "key.sayitenglish.look": "Baktığın şeyin adını söyle",
+  "sayitenglish.look.nothing": "Önce bir bloğa ya da yaratığa bak."
 }

@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "선생님: 자유",
   "sayitenglish.layout.teacher_locked": "선생님: 패널 옆",
   "sayitenglish.panel.custom": "내 위치",
-  "sayitenglish.settings.readings": "읽기 줄: %s"
+  "sayitenglish.settings.readings": "읽기 줄: %s",
+  "sayitenglish.penalty.explosion": "폭발",
+  "sayitenglish.hud.lost.explosion": "쾅!",
+  "sayitenglish.chat.streak_reward": "§a연속 보너스: +%s XP",
+  "sayitenglish.chat.streak_diamond": "§b일주일 연속: 다이아몬드와 +%s XP!",
+  "sayitenglish.chat.owed": "%s 이(가) 문제 중에 숨겨져 있어서 지금 가져갑니다.",
+  "key.sayitenglish.look": "보고 있는 것의 이름",
+  "sayitenglish.look.nothing": "먼저 블록이나 생물을 보세요."
 }

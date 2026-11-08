@@ -15,6 +15,15 @@ errors = []
 for name in sorted(os.listdir(HERE)):
     if not name.endswith(".json") or name == "en_us.json":
         continue
+    if name == "reading_overrides.json":
+        # Japanese reading corrections: word -> reading, only has to be valid JSON with text values
+        try:
+            for key, value in load(name).items():
+                if not isinstance(value, str):
+                    errors.append(f"{name}: the reading of {key} must be text")
+        except ValueError as e:
+            errors.append(f"{name}: not valid JSON ({e})")
+        continue
     try:
         data = load(name)
     except ValueError as e:

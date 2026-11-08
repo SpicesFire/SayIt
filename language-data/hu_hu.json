@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "Tanár: szabad",
   "sayitenglish.layout.teacher_locked": "Tanár: a panel mellett",
   "sayitenglish.panel.custom": "Saját hely",
-  "sayitenglish.settings.readings": "Kiejtés sora: %s"
+  "sayitenglish.settings.readings": "Kiejtés sora: %s",
+  "sayitenglish.penalty.explosion": "Robbanás",
+  "sayitenglish.hud.lost.explosion": "BUMM!",
+  "sayitenglish.chat.streak_reward": "§aSorozat bónusz: +%s XP",
+  "sayitenglish.chat.streak_diamond": "§bEgyhetes sorozat: egy gyémánt és +%s XP!",
+  "sayitenglish.chat.owed": "%s el volt rejtve a kérdése alatt, ezért most elveszed.",
+  "key.sayitenglish.look": "Nevezd meg, amit nézel",
+  "sayitenglish.look.nothing": "Előbb nézz egy blokkra vagy egy lényre."
 }

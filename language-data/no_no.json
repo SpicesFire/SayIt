@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "Lærer: fri",
   "sayitenglish.layout.teacher_locked": "Lærer: ved panelet",
   "sayitenglish.panel.custom": "Din plass",
-  "sayitenglish.settings.readings": "Uttalelinje: %s"
+  "sayitenglish.settings.readings": "Uttalelinje: %s",
+  "sayitenglish.penalty.explosion": "Eksplosjon",
+  "sayitenglish.hud.lost.explosion": "BOM!",
+  "sayitenglish.chat.streak_reward": "§aRekkebonus: +%s XP",
+  "sayitenglish.chat.streak_diamond": "§bEn uke på rad: en diamant og +%s XP!",
+  "sayitenglish.chat.owed": "%s var gjemt under spørsmålet, så den tas nå.",
+  "key.sayitenglish.look": "Navngi det du ser på",
+  "sayitenglish.look.nothing": "Se på en blokk eller en skapning først."
 }

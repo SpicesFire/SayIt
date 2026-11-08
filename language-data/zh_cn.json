@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "老师：自由",
   "sayitenglish.layout.teacher_locked": "老师：在面板旁边",
   "sayitenglish.panel.custom": "自定义位置",
-  "sayitenglish.settings.readings": "读音行：%s"
+  "sayitenglish.settings.readings": "读音行：%s",
+  "sayitenglish.penalty.explosion": "爆炸",
+  "sayitenglish.hud.lost.explosion": "轰！",
+  "sayitenglish.chat.streak_reward": "§a连续奖励：+%s 经验",
+  "sayitenglish.chat.streak_diamond": "§b连续一周：一颗钻石和 +%s 经验！",
+  "sayitenglish.chat.owed": "%s 在提问时被藏起来了，所以现在被拿走。",
+  "key.sayitenglish.look": "说出你看着的东西",
+  "sayitenglish.look.nothing": "请先看着一个方块或生物。"
 }

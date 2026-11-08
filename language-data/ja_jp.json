@@ -240,5 +240,12 @@
   "sayitenglish.layout.teacher_free": "先生: 自由",
   "sayitenglish.layout.teacher_locked": "先生: パネルの横",
   "sayitenglish.panel.custom": "自分の位置",
-  "sayitenglish.settings.readings": "読み方の行: %s"
+  "sayitenglish.settings.readings": "読み方の行: %s",
+  "sayitenglish.penalty.explosion": "爆発",
+  "sayitenglish.hud.lost.explosion": "ドカン！",
+  "sayitenglish.chat.streak_reward": "§a連続ボーナス: +%s XP",
+  "sayitenglish.chat.streak_diamond": "§b1週間連続: ダイヤモンドと +%s XP！",
+  "sayitenglish.chat.owed": "%s は問題中に隠されていたので、今取り上げられます。",
+  "key.sayitenglish.look": "見ているものの名前",
+  "sayitenglish.look.nothing": "まずブロックか生き物を見てください。"
 }
