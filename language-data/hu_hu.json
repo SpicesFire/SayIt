@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "tizenegy",
   "sayitenglish.n.12": "tizenkettő",
   "key.sayitenglish.listen": "Szó meghallgatása",
+  "key.sayitenglish.listen_slow": "Szó lassú meghallgatása",
   "sayitenglish.hud.listen": "[%s] meghallgat",
   "sayitenglish.hud.race": "SZÓVERSENY · MONDD KI – %s",
   "sayitenglish.settings.crown": "Korona: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Középhaladó",
   "sayitenglish.rules.level_2": "Haladó",
   "sayitenglish.rules.level_0_hint": "Csak tárgynevek",
-  "sayitenglish.rules.level_1_hint": "Tárgyak, helyek, biomok, számok és színek",
+  "sayitenglish.rules.level_1_hint": "Tárgynevek, lények, helyek, biomok, számok és színek",
   "sayitenglish.rules.level_2_hint": "Minden, a mondatok is",
   "key.sayitenglish.answer1": "Válasz 1",
   "key.sayitenglish.answer2": "Válasz 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bEgyhetes sorozat: egy gyémánt és +%s XP!",
   "sayitenglish.chat.owed": "%s el volt rejtve a kérdése alatt, ezért most elveszed.",
   "key.sayitenglish.look": "Nevezd meg, amit nézel",
-  "sayitenglish.look.nothing": "Előbb nézz egy blokkra vagy egy lényre."
+  "sayitenglish.look.nothing": "Előbb nézz egy blokkra vagy egy lényre.",
+  "sayitenglish.hud.fled": "ELSZALADT!",
+  "sayitenglish.chat.fled": "%s elszaladt. Legközelebb mondd ki a nevét!"
 }

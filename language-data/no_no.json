@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "elleve",
   "sayitenglish.n.12": "tolv",
   "key.sayitenglish.listen": "Hør ordet",
+  "key.sayitenglish.listen_slow": "Hør ordet sakte",
   "sayitenglish.hud.listen": "[%s] hør",
   "sayitenglish.hud.race": "ORDKAPPLØP · SI DET PÅ %s",
   "sayitenglish.settings.crown": "Krone: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Middels",
   "sayitenglish.rules.level_2": "Avansert",
   "sayitenglish.rules.level_0_hint": "Bare gjenstandsnavn",
-  "sayitenglish.rules.level_1_hint": "Gjenstander, steder, biomer, tall og farger",
+  "sayitenglish.rules.level_1_hint": "Gjenstandsnavn, skapninger, steder, biomer, tall og farger",
   "sayitenglish.rules.level_2_hint": "Alt, også setninger",
   "key.sayitenglish.answer1": "Svar 1",
   "key.sayitenglish.answer2": "Svar 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bEn uke på rad: en diamant og +%s XP!",
   "sayitenglish.chat.owed": "%s var gjemt under spørsmålet, så den tas nå.",
   "key.sayitenglish.look": "Navngi det du ser på",
-  "sayitenglish.look.nothing": "Se på en blokk eller en skapning først."
+  "sayitenglish.look.nothing": "Se på en blokk eller en skapning først.",
+  "sayitenglish.hud.fled": "STAKK AV!",
+  "sayitenglish.chat.fled": "%s stakk av. Si navnet neste gang!"
 }

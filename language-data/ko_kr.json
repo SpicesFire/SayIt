@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "열한 개",
   "sayitenglish.n.12": "열두 개",
   "key.sayitenglish.listen": "단어 듣기",
+  "key.sayitenglish.listen_slow": "단어 천천히 듣기",
   "sayitenglish.hud.listen": "[%s] 듣기",
   "sayitenglish.hud.race": "단어 경주 · %s로 말하세요",
   "sayitenglish.settings.crown": "왕관: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "중급",
   "sayitenglish.rules.level_2": "고급",
   "sayitenglish.rules.level_0_hint": "아이템 이름만",
-  "sayitenglish.rules.level_1_hint": "아이템 이름, 장소, 바이옴, 숫자, 색",
+  "sayitenglish.rules.level_1_hint": "아이템 이름, 생물, 장소, 생물 군계, 숫자, 색깔",
   "sayitenglish.rules.level_2_hint": "문장까지 모두",
   "key.sayitenglish.answer1": "답 1",
   "key.sayitenglish.answer2": "답 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§b일주일 연속: 다이아몬드와 +%s XP!",
   "sayitenglish.chat.owed": "%s 이(가) 문제 중에 숨겨져 있어서 지금 가져갑니다.",
   "key.sayitenglish.look": "보고 있는 것의 이름",
-  "sayitenglish.look.nothing": "먼저 블록이나 생물을 보세요."
+  "sayitenglish.look.nothing": "먼저 블록이나 생물을 보세요.",
+  "sayitenglish.hud.fled": "도망쳤다!",
+  "sayitenglish.chat.fled": "%s이(가) 도망쳤어요. 다음엔 이름을 말해 보세요!"
 }

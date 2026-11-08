@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "elf",
   "sayitenglish.n.12": "zwölf",
   "key.sayitenglish.listen": "Wort anhören",
+  "key.sayitenglish.listen_slow": "Wort langsam anhören",
   "sayitenglish.hud.listen": "[%s] anhören",
   "sayitenglish.hud.race": "WORTRENNEN · SAGE ES AUF %s",
   "sayitenglish.settings.crown": "Krone: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Mittel",
   "sayitenglish.rules.level_2": "Fortgeschritten",
   "sayitenglish.rules.level_0_hint": "Nur Gegenstandsnamen",
-  "sayitenglish.rules.level_1_hint": "Gegenstände, Orte, Biome, Zahlen und Farben",
+  "sayitenglish.rules.level_1_hint": "Gegenstände, Kreaturen, Orte, Biome, Zahlen und Farben",
   "sayitenglish.rules.level_2_hint": "Alles, auch Sätze",
   "key.sayitenglish.answer1": "Antwort 1",
   "key.sayitenglish.answer2": "Antwort 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bEine Woche Serie: ein Diamant und +%s EP!",
   "sayitenglish.chat.owed": "%s war während seiner Frage versteckt, deshalb wird es jetzt genommen.",
   "key.sayitenglish.look": "Benenne, was du ansiehst",
-  "sayitenglish.look.nothing": "Schau zuerst einen Block oder ein Wesen an."
+  "sayitenglish.look.nothing": "Schau zuerst einen Block oder ein Wesen an.",
+  "sayitenglish.hud.fled": "WEGGELAUFEN!",
+  "sayitenglish.chat.fled": "%s ist weggelaufen. Sag nächstes Mal seinen Namen!"
 }

@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "eleven",
   "sayitenglish.n.12": "twelve",
   "key.sayitenglish.listen": "Hear the word",
+  "key.sayitenglish.listen_slow": "Hear the word slowly",
   "sayitenglish.hud.listen": "[%s] listen",
   "sayitenglish.hud.race": "WORD RACE · SAY IT IN %s",
   "sayitenglish.settings.crown": "Crown: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Intermediate",
   "sayitenglish.rules.level_2": "Advanced",
   "sayitenglish.rules.level_0_hint": "Only item names",
-  "sayitenglish.rules.level_1_hint": "Item names, places, biomes, numbers and colours",
+  "sayitenglish.rules.level_1_hint": "Item names, creatures, places, biomes, numbers and colours",
   "sayitenglish.rules.level_2_hint": "Everything, sentences too",
   "key.sayitenglish.answer1": "Answer 1",
   "key.sayitenglish.answer2": "Answer 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bA week of streak: a diamond and +%s XP!",
   "sayitenglish.chat.owed": "%s was hidden during its question, so it is taken now.",
   "key.sayitenglish.look": "Name what you look at",
-  "sayitenglish.look.nothing": "Look at a block or a creature first."
+  "sayitenglish.look.nothing": "Look at a block or a creature first.",
+  "sayitenglish.hud.fled": "RAN AWAY!",
+  "sayitenglish.chat.fled": "%s ran away. Say its name next time!"
 }

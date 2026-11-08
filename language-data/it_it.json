@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "undici",
   "sayitenglish.n.12": "dodici",
   "key.sayitenglish.listen": "Ascolta la parola",
+  "key.sayitenglish.listen_slow": "Ascolta la parola lentamente",
   "sayitenglish.hud.listen": "[%s] ascolta",
   "sayitenglish.hud.race": "GARA DI PAROLE · DILLO IN %s",
   "sayitenglish.settings.crown": "Corona: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Intermedio",
   "sayitenglish.rules.level_2": "Avanzato",
   "sayitenglish.rules.level_0_hint": "Solo nomi di oggetti",
-  "sayitenglish.rules.level_1_hint": "Oggetti, luoghi, biomi, numeri e colori",
+  "sayitenglish.rules.level_1_hint": "Nomi di oggetti, creature, luoghi, biomi, numeri e colori",
   "sayitenglish.rules.level_2_hint": "Tutto, anche le frasi",
   "key.sayitenglish.answer1": "Risposta 1",
   "key.sayitenglish.answer2": "Risposta 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bUna settimana di serie: un diamante e +%s XP!",
   "sayitenglish.chat.owed": "%s era nascosto durante la sua domanda, quindi viene preso ora.",
   "key.sayitenglish.look": "Nomina ciò che guardi",
-  "sayitenglish.look.nothing": "Guarda prima un blocco o una creatura."
+  "sayitenglish.look.nothing": "Guarda prima un blocco o una creatura.",
+  "sayitenglish.hud.fled": "SCAPPATO!",
+  "sayitenglish.chat.fled": "%s è scappato. La prossima volta di' il suo nome!"
 }

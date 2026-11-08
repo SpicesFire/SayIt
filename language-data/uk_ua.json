@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "одинадцять",
   "sayitenglish.n.12": "дванадцять",
   "key.sayitenglish.listen": "Прослухати слово",
+  "key.sayitenglish.listen_slow": "Прослухати слово повільно",
   "sayitenglish.hud.listen": "[%s] слухати",
   "sayitenglish.hud.race": "ГОНКА СЛІВ · СКАЖИ ЦЕ: %s",
   "sayitenglish.settings.crown": "Корона: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Середній",
   "sayitenglish.rules.level_2": "Просунутий",
   "sayitenglish.rules.level_0_hint": "Лише назви предметів",
-  "sayitenglish.rules.level_1_hint": "Предмети, місця, біоми, числа й кольори",
+  "sayitenglish.rules.level_1_hint": "Назви предметів, істоти, місця, біоми, числа й кольори",
   "sayitenglish.rules.level_2_hint": "Усе, включно з реченнями",
   "key.sayitenglish.answer1": "Відповідь 1",
   "key.sayitenglish.answer2": "Відповідь 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bТиждень поспіль: алмаз і +%s досвіду!",
   "sayitenglish.chat.owed": "%s був схований під час питання, тому забирається зараз.",
   "key.sayitenglish.look": "Назвати те, на що дивишся",
-  "sayitenglish.look.nothing": "Спершу подивися на блок або істоту."
+  "sayitenglish.look.nothing": "Спершу подивися на блок або істоту.",
+  "sayitenglish.hud.fled": "ВТІК!",
+  "sayitenglish.chat.fled": "%s втік. Наступного разу назви його!"
 }

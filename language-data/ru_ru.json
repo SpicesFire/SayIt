@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "одиннадцать",
   "sayitenglish.n.12": "двенадцать",
   "key.sayitenglish.listen": "Прослушать слово",
+  "key.sayitenglish.listen_slow": "Прослушать слово медленно",
   "sayitenglish.hud.listen": "[%s] слушать",
   "sayitenglish.hud.race": "ГОНКА СЛОВ · СКАЖИ НА ЯЗЫКЕ: %s",
   "sayitenglish.settings.crown": "Корона: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Средний",
   "sayitenglish.rules.level_2": "Продвинутый",
   "sayitenglish.rules.level_0_hint": "Только названия предметов",
-  "sayitenglish.rules.level_1_hint": "Предметы, места, биомы, числа и цвета",
+  "sayitenglish.rules.level_1_hint": "Названия предметов, существа, места, биомы, числа и цвета",
   "sayitenglish.rules.level_2_hint": "Всё, включая предложения",
   "key.sayitenglish.answer1": "Ответ 1",
   "key.sayitenglish.answer2": "Ответ 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bНеделя подряд: алмаз и +%s опыта!",
   "sayitenglish.chat.owed": "%s был спрятан во время вопроса, поэтому забирается сейчас.",
   "key.sayitenglish.look": "Назвать то, на что смотришь",
-  "sayitenglish.look.nothing": "Сначала посмотри на блок или существо."
+  "sayitenglish.look.nothing": "Сначала посмотри на блок или существо.",
+  "sayitenglish.hud.fled": "УБЕЖАЛ!",
+  "sayitenglish.chat.fled": "%s убежал. В следующий раз назови его!"
 }

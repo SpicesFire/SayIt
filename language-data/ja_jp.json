@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "じゅういち",
   "sayitenglish.n.12": "じゅうに",
   "key.sayitenglish.listen": "単語を聞く",
+  "key.sayitenglish.listen_slow": "単語をゆっくり聞く",
   "sayitenglish.hud.listen": "[%s] 聞く",
   "sayitenglish.hud.race": "単語レース · %sで言おう",
   "sayitenglish.settings.crown": "王冠: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "中級",
   "sayitenglish.rules.level_2": "上級",
   "sayitenglish.rules.level_0_hint": "アイテム名のみ",
-  "sayitenglish.rules.level_1_hint": "アイテム名、場所、バイオーム、数、色",
+  "sayitenglish.rules.level_1_hint": "アイテム名、生き物、場所、バイオーム、数、色",
   "sayitenglish.rules.level_2_hint": "文を含むすべて",
   "key.sayitenglish.answer1": "回答 1",
   "key.sayitenglish.answer2": "回答 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§b1週間連続: ダイヤモンドと +%s XP！",
   "sayitenglish.chat.owed": "%s は問題中に隠されていたので、今取り上げられます。",
   "key.sayitenglish.look": "見ているものの名前",
-  "sayitenglish.look.nothing": "まずブロックか生き物を見てください。"
+  "sayitenglish.look.nothing": "まずブロックか生き物を見てください。",
+  "sayitenglish.hud.fled": "逃げた！",
+  "sayitenglish.chat.fled": "%sは逃げてしまった。次は名前を言おう！"
 }

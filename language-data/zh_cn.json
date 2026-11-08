@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "十一",
   "sayitenglish.n.12": "十二",
   "key.sayitenglish.listen": "听这个词",
+  "key.sayitenglish.listen_slow": "慢速听这个词",
   "sayitenglish.hud.listen": "[%s] 听",
   "sayitenglish.hud.race": "单词竞赛 · 用%s说出来",
   "sayitenglish.settings.crown": "王冠：%s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "中级",
   "sayitenglish.rules.level_2": "高级",
   "sayitenglish.rules.level_0_hint": "仅物品名称",
-  "sayitenglish.rules.level_1_hint": "物品名称、地点、生物群系、数字和颜色",
+  "sayitenglish.rules.level_1_hint": "物品名称、生物、地点、生物群系、数字和颜色",
   "sayitenglish.rules.level_2_hint": "全部，包括句子",
   "key.sayitenglish.answer1": "回答 1",
   "key.sayitenglish.answer2": "回答 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§b连续一周：一颗钻石和 +%s 经验！",
   "sayitenglish.chat.owed": "%s 在提问时被藏起来了，所以现在被拿走。",
   "key.sayitenglish.look": "说出你看着的东西",
-  "sayitenglish.look.nothing": "请先看着一个方块或生物。"
+  "sayitenglish.look.nothing": "请先看着一个方块或生物。",
+  "sayitenglish.hud.fled": "跑掉了！",
+  "sayitenglish.chat.fled": "%s跑掉了。下次说出它的名字吧！"
 }

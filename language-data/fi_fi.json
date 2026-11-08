@@ -141,6 +141,7 @@
   "sayitenglish.n.11": "yksitoista",
   "sayitenglish.n.12": "kaksitoista",
   "key.sayitenglish.listen": "Kuuntele sana",
+  "key.sayitenglish.listen_slow": "Kuuntele sana hitaasti",
   "sayitenglish.hud.listen": "[%s] kuuntele",
   "sayitenglish.hud.race": "SANAKILPA · SANO SE: %s",
   "sayitenglish.settings.crown": "Kruunu: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Keskitaso",
   "sayitenglish.rules.level_2": "Edistynyt",
   "sayitenglish.rules.level_0_hint": "Vain esineiden nimet",
-  "sayitenglish.rules.level_1_hint": "Esineet, paikat, biomit, numerot ja värit",
+  "sayitenglish.rules.level_1_hint": "Esineiden nimet, olennot, paikat, biomit, numerot ja värit",
   "sayitenglish.rules.level_2_hint": "Kaikki, myös lauseet",
   "key.sayitenglish.answer1": "Vastaus 1",
   "key.sayitenglish.answer2": "Vastaus 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bViikko putkeen: timantti ja +%s XP!",
   "sayitenglish.chat.owed": "%s oli piilossa kysymyksen aikana, joten se otetaan nyt.",
   "key.sayitenglish.look": "Nimeä mitä katsot",
-  "sayitenglish.look.nothing": "Katso ensin jotain kuutiota tai olentoa."
+  "sayitenglish.look.nothing": "Katso ensin jotain kuutiota tai olentoa.",
+  "sayitenglish.hud.fled": "KARKASI!",
+  "sayitenglish.chat.fled": "%s karkasi. Sano sen nimi ensi kerralla!"
 }

@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "jedenaście",
   "sayitenglish.n.12": "dwanaście",
   "key.sayitenglish.listen": "Posłuchaj słowa",
+  "key.sayitenglish.listen_slow": "Posłuchaj słowa powoli",
   "sayitenglish.hud.listen": "[%s] posłuchaj",
   "sayitenglish.hud.race": "WYŚCIG SŁÓW · POWIEDZ TO: %s",
   "sayitenglish.settings.crown": "Korona: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Średni",
   "sayitenglish.rules.level_2": "Zaawansowany",
   "sayitenglish.rules.level_0_hint": "Tylko nazwy przedmiotów",
-  "sayitenglish.rules.level_1_hint": "Przedmioty, miejsca, biomy, liczby i kolory",
+  "sayitenglish.rules.level_1_hint": "Nazwy przedmiotów, stworzenia, miejsca, biomy, liczby i kolory",
   "sayitenglish.rules.level_2_hint": "Wszystko, także zdania",
   "key.sayitenglish.answer1": "Odpowiedź 1",
   "key.sayitenglish.answer2": "Odpowiedź 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bTydzień serii: diament i +%s XP!",
   "sayitenglish.chat.owed": "%s był schowany podczas pytania, więc zostaje zabrany teraz.",
   "key.sayitenglish.look": "Nazwij to, na co patrzysz",
-  "sayitenglish.look.nothing": "Najpierw spójrz na blok albo stworzenie."
+  "sayitenglish.look.nothing": "Najpierw spójrz na blok albo stworzenie.",
+  "sayitenglish.hud.fled": "UCIEKŁ!",
+  "sayitenglish.chat.fled": "%s uciekł. Następnym razem powiedz jego nazwę!"
 }

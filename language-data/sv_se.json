@@ -141,6 +141,7 @@
   "sayitenglish.n.11": "elva",
   "sayitenglish.n.12": "tolv",
   "key.sayitenglish.listen": "Hör ordet",
+  "key.sayitenglish.listen_slow": "Hör ordet långsamt",
   "sayitenglish.hud.listen": "[%s] lyssna",
   "sayitenglish.hud.race": "ORDKAPPLÖPNING · SÄG DET PÅ %s",
   "sayitenglish.settings.crown": "Krona: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Medel",
   "sayitenglish.rules.level_2": "Avancerad",
   "sayitenglish.rules.level_0_hint": "Bara föremålsnamn",
-  "sayitenglish.rules.level_1_hint": "Föremål, platser, biom, siffror och färger",
+  "sayitenglish.rules.level_1_hint": "Föremålsnamn, varelser, platser, biomer, siffror och färger",
   "sayitenglish.rules.level_2_hint": "Allt, även meningar",
   "key.sayitenglish.answer1": "Svar 1",
   "key.sayitenglish.answer2": "Svar 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bEn vecka i rad: en diamant och +%s XP!",
   "sayitenglish.chat.owed": "%s var gömd under sin fråga, så den tas nu.",
   "key.sayitenglish.look": "Säg namnet på det du tittar på",
-  "sayitenglish.look.nothing": "Titta på ett block eller en varelse först."
+  "sayitenglish.look.nothing": "Titta på ett block eller en varelse först.",
+  "sayitenglish.hud.fled": "SPRANG IVÄG!",
+  "sayitenglish.chat.fled": "%s sprang iväg. Säg namnet nästa gång!"
 }

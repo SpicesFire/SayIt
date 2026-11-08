@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "on bir",
   "sayitenglish.n.12": "on iki",
   "key.sayitenglish.listen": "Kelimeyi dinle",
+  "key.sayitenglish.listen_slow": "Kelimeyi yavaş dinle",
   "sayitenglish.hud.listen": "[%s] dinle",
   "sayitenglish.hud.race": "KELİME YARIŞI · %s SÖYLE",
   "sayitenglish.settings.crown": "Taç: %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Orta",
   "sayitenglish.rules.level_2": "İleri",
   "sayitenglish.rules.level_0_hint": "Yalnız eşya adları",
-  "sayitenglish.rules.level_1_hint": "Eşya adları, yerler, biyomlar, sayılar ve renkler",
+  "sayitenglish.rules.level_1_hint": "Eşya adları, yaratıklar, yerler, biyomlar, sayılar ve renkler",
   "sayitenglish.rules.level_2_hint": "Her şey, cümleler de",
   "key.sayitenglish.answer1": "Cevap 1",
   "key.sayitenglish.answer2": "Cevap 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bBir haftalık seri: bir elmas ve +%s XP!",
   "sayitenglish.chat.owed": "%s sorusu sırasında saklanmıştı, bu yüzden şimdi alındı.",
   "key.sayitenglish.look": "Baktığın şeyin adını söyle",
-  "sayitenglish.look.nothing": "Önce bir bloğa ya da yaratığa bak."
+  "sayitenglish.look.nothing": "Önce bir bloğa ya da yaratığa bak.",
+  "sayitenglish.hud.fled": "KAÇIP GİTTİ!",
+  "sayitenglish.chat.fled": "%s kaçıp gitti. Bir dahaki sefere adını söyle!"
 }

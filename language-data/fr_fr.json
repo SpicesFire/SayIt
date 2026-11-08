@@ -143,6 +143,7 @@
   "sayitenglish.n.11": "onze",
   "sayitenglish.n.12": "douze",
   "key.sayitenglish.listen": "Écouter le mot",
+  "key.sayitenglish.listen_slow": "Écouter le mot lentement",
   "sayitenglish.hud.listen": "[%s] écouter",
   "sayitenglish.hud.race": "COURSE DE MOTS · DIS-LE EN %s",
   "sayitenglish.settings.crown": "Couronne : %s",
@@ -218,7 +219,7 @@
   "sayitenglish.rules.level_1": "Intermédiaire",
   "sayitenglish.rules.level_2": "Avancé",
   "sayitenglish.rules.level_0_hint": "Seulement les noms d'objets",
-  "sayitenglish.rules.level_1_hint": "Objets, lieux, biomes, nombres et couleurs",
+  "sayitenglish.rules.level_1_hint": "Noms d'objets, créatures, lieux, biomes, nombres et couleurs",
   "sayitenglish.rules.level_2_hint": "Tout, phrases comprises",
   "key.sayitenglish.answer1": "Réponse 1",
   "key.sayitenglish.answer2": "Réponse 2",
@@ -247,5 +248,7 @@
   "sayitenglish.chat.streak_diamond": "§bUne semaine de série : un diamant et +%s XP !",
   "sayitenglish.chat.owed": "%s était caché pendant sa question, il est donc pris maintenant.",
   "key.sayitenglish.look": "Nommer ce que tu regardes",
-  "sayitenglish.look.nothing": "Regarde d'abord un bloc ou une créature."
+  "sayitenglish.look.nothing": "Regarde d'abord un bloc ou une créature.",
+  "sayitenglish.hud.fled": "ENFUI !",
+  "sayitenglish.chat.fled": "%s s'est enfui. Dis son nom la prochaine fois !"
 }
