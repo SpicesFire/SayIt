@@ -6,7 +6,7 @@
 
 SayIt is a free Minecraft Java Edition mod that turns everyday gameplay into language practice. Every new item you get shows its name in the language you're learning, and you say it into your microphone to keep it. Speech recognition runs **offline on your own PC**, pronunciation is scored, words come back for spaced review, and a villager teacher helps when you get stuck.
 
-- **17 languages:** English, Mandarin Chinese, Japanese, Korean, German, Spanish, French, Italian, Portuguese, Polish, Russian, Ukrainian, Turkish, Norwegian, Hungarian, Swedish and Finnish.
+- **24 languages:** English, Mandarin Chinese, Japanese, Korean, German, Spanish, French, Italian, Portuguese, Polish, Russian, Ukrainian, Turkish, Norwegian, Hungarian, Swedish, Finnish, Dutch, Danish, Greek, Filipino, Traditional Chinese, Arabic and Cantonese.
 - **Fabric, Forge and NeoForge**, Minecraft 1.20.1 to 26.3, in one mod.
 - **Free.** No account, no subscription.
 
@@ -29,7 +29,7 @@ SayIt is a free Minecraft Java Edition mod that turns everyday gameplay into lan
 - Reading help: pinyin for Chinese, furigana and romaji for Japanese, Latin letters for Korean, Russian and Ukrainian.
 
 **Hear it said right**
-- Natural offline voices (Piper) in 15 languages, as a woman, man, child or elderly voice. Optional ElevenLabs with your own key.
+- Natural offline voices (Piper) in 19 languages, as a woman, man, child or elderly voice. Optional ElevenLabs with your own key.
 - `I` reads the word, `K` reads it slowly. After a few misses the villager teacher says it syllable by syllable and the timer slows down.
 - `N` names the block or creature you're looking at.
 
@@ -38,6 +38,12 @@ SayIt is a free Minecraft Java Edition mod that turns everyday gameplay into lan
 - Hard mode (learn or die): 1, 3 or 5 wrong answers in a row and you die.
 - Answer time from 8 to 30 seconds, or no timer with 3 tries. Pause any time with `B`.
 - Daily streak with rewards, 10 advancements.
+
+**New in 1.2.0**
+- Talk to villagers: say what a villager sells and that trade is about 30% cheaper for a day.
+- Bestiary, daily goals, mastery levels (New to ★ Master) and a talking teacher.
+- Press `H` to hear your own answer next to the teacher's. Practise one picked word until it's right.
+- Readings in your own letters; English shown as it sounds. Flashcard export, save and load your progress.
 
 **Play together**
 - Full multiplayer: install on the server and every player's game. Players without the mod are never asked.
@@ -52,7 +58,7 @@ Other Minecraft language mods, as of November 2026:
 |---|---|---|---|---|
 | Loaders | Fabric, Forge, NeoForge | Fabric | Fabric | Fabric, NeoForge |
 | Minecraft | 1.20.1, 1.21.1, 1.21.10, 26.1.2, 26.3 | 1.20.1, 1.21.1, 26.3 | 1.21.1 | 1.21.1, 26.3 |
-| Languages | 17, all in one jar | 23 | 14 | 6, one jar per language |
+| Languages | 24, all in one jar | 23 | 14 | 6, one jar per language |
 | Answer by voice | Yes, offline (Vosk + whisper.cpp), model downloads by itself | Yes, offline (Vosk) | Yes, offline (Vosk), model installed by hand | Optional beta, about 1.5 GB download |
 | Server side | Built in (races, crown, server rules) | With the LinguaCraft Server add-on | Client only | Client only |
 
@@ -62,14 +68,14 @@ Get the jar for your loader and Minecraft version from the **[latest release](ht
 
 | Loader | Minecraft | Java | File |
 |---|---|---|---|
-| Fabric | 26.3 | 25 | `sayitenglish-fabric-26.3-1.1.11.jar` |
-| Fabric | 26.1.2 | 25 | `sayitenglish-fabric-26.1.2-1.1.11.jar` |
-| Fabric | 1.21.10 | 21 | `sayitenglish-fabric-1.21.10-1.1.11.jar` |
-| Fabric | 1.20.1 | 17 | `sayitenglish-fabric-1.20.1-1.1.11.jar` |
-| Forge | 26.3 | 25 | `sayitenglish-forge-26.3-1.1.11.jar` |
-| Forge | 1.20.1 | 17 | `sayitenglish-forge-1.20.1-1.1.11.jar` |
-| NeoForge | 26.3 | 25 | `sayitenglish-neoforge-26.3-1.1.11.jar` |
-| NeoForge | 1.21.1 | 21 | `sayitenglish-neoforge-1.21.1-1.1.11.jar` |
+| Fabric | 26.3 | 25 | `sayitenglish-fabric-26.3-1.2.0.jar` |
+| Fabric | 26.1.2 | 25 | `sayitenglish-fabric-26.1.2-1.2.0.jar` |
+| Fabric | 1.21.10 | 21 | `sayitenglish-fabric-1.21.10-1.2.0.jar` |
+| Fabric | 1.20.1 | 17 | `sayitenglish-fabric-1.20.1-1.2.0.jar` |
+| Forge | 26.3 | 25 | `sayitenglish-forge-26.3-1.2.0.jar` |
+| Forge | 1.20.1 | 17 | `sayitenglish-forge-1.20.1-1.2.0.jar` |
+| NeoForge | 26.3 | 25 | `sayitenglish-neoforge-26.3-1.2.0.jar` |
+| NeoForge | 1.21.1 | 21 | `sayitenglish-neoforge-1.21.1-1.2.0.jar` |
 
 SayIt is also waiting for review on CurseForge and Modrinth.
 
@@ -88,7 +94,7 @@ For multiplayer, install it on the server and on every player's game.
 
 ## FAQ
 
-**Can I learn English with it?** Yes. English is one of the 17 languages. Choose it when you join a world, or later in Settings (`U`).
+**Can I learn English with it?** Yes. English is one of the 24 languages. Choose it when you join a world, or later in Settings (`U`).
 
 **Do I need a microphone?** No. You can type every answer (`Y`) or choose Typing only in Settings. Multiple-choice questions only need a click.
 
@@ -106,7 +112,7 @@ Questions or bugs: [Discord](https://discord.gg/TM4pNVUktW). Tell us your Minecr
 
 ## Help with the languages
 
-The texts SayIt shows and the sentences it asks you to say are open here, for all 17 languages: **[language-data](language-data/)**. Found a mistake or a clumsy phrase? Propose a fix, the guide is in that folder.
+The texts SayIt shows and the sentences it asks you to say are open here, for all 24 languages: **[language-data](language-data/)**. Found a mistake or a clumsy phrase? Propose a fix, the guide is in that folder.
 
 ---
 

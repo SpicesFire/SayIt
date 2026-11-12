@@ -1,6 +1,6 @@
 # Language data
 
-Everything SayIt shows or says in its own words, for all 17 languages: menus, chat messages, the sentences you are asked
+Everything SayIt shows or says in its own words, for all 24 languages: menus, chat messages, the sentences you are asked
 to say (*"I just crafted %s."*), the number words, advancement names. **Help us make them sound natural!**
 
 The names of items, blocks and mobs are **not** here. Those come from Minecraft's own language files.
