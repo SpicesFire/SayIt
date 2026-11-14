@@ -68,14 +68,14 @@ Get the jar for your loader and Minecraft version from the **[latest release](ht
 
 | Loader | Minecraft | Java | File |
 |---|---|---|---|
-| Fabric | 26.3 | 25 | `sayitenglish-fabric-26.3-1.2.1.jar` |
-| Fabric | 26.1.2 | 25 | `sayitenglish-fabric-26.1.2-1.2.1.jar` |
-| Fabric | 1.21.10 | 21 | `sayitenglish-fabric-1.21.10-1.2.1.jar` |
-| Fabric | 1.20.1 | 17 | `sayitenglish-fabric-1.20.1-1.2.1.jar` |
-| Forge | 26.3 | 25 | `sayitenglish-forge-26.3-1.2.1.jar` |
-| Forge | 1.20.1 | 17 | `sayitenglish-forge-1.20.1-1.2.1.jar` |
-| NeoForge | 26.3 | 25 | `sayitenglish-neoforge-26.3-1.2.1.jar` |
-| NeoForge | 1.21.1 | 21 | `sayitenglish-neoforge-1.21.1-1.2.1.jar` |
+| Fabric | 26.3 | 25 | `sayitenglish-fabric-26.3-1.2.2.jar` |
+| Fabric | 26.1.2 | 25 | `sayitenglish-fabric-26.1.2-1.2.2.jar` |
+| Fabric | 1.21.10 | 21 | `sayitenglish-fabric-1.21.10-1.2.2.jar` |
+| Fabric | 1.20.1 | 17 | `sayitenglish-fabric-1.20.1-1.2.2.jar` |
+| Forge | 26.3 | 25 | `sayitenglish-forge-26.3-1.2.2.jar` |
+| Forge | 1.20.1 | 17 | `sayitenglish-forge-1.20.1-1.2.2.jar` |
+| NeoForge | 26.3 | 25 | `sayitenglish-neoforge-26.3-1.2.2.jar` |
+| NeoForge | 1.21.1 | 21 | `sayitenglish-neoforge-1.21.1-1.2.2.jar` |
 
 SayIt is also waiting for review on CurseForge and Modrinth.
 
