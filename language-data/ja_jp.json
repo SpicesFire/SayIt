@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "ネイティブ並み",
   "sayitenglish.accent.great": "とても良い",
   "sayitenglish.accent.good": "良い",
-  "sayitenglish.accent.clear": "聞き取れる"
+  "sayitenglish.accent.clear": "聞き取れる",
+  "sayitenglish.rules.unlock": "解放: %s",
+  "sayitenglish.unlock.permanent": "ずっと",
+  "sayitenglish.unlock.every": "拾うたびに",
+  "sayitenglish.unlock.held": "持っている間",
+  "sayitenglish.desc.unlock": "アイテムを覚えたとみなすタイミング。ずっと: 一度正しく言えたら。拾うたびに: 増えるたびにもう一度。持っている間: インベントリから出るまで。",
+  "sayitenglish.rules.exam": "テスト: %s",
+  "sayitenglish.rules.exam_n": "%s分ごと",
+  "sayitenglish.desc.exam": "数分ごとに、最近出会った単語と間違えた単語の短いテスト。罰はなし。正解で経験値がもらえます。",
+  "sayitenglish.hud.retry": "聞き取れませんでした。もう一度言ってください！",
+  "sayitenglish.chat.exam_start": "テストの時間！単語について%s問。何も取られません。",
+  "sayitenglish.chat.exam_done": "テスト終了: %2$s問中%1$s問正解（%3$s%%）。",
+  "sayitenglish.chat.exam_missed": "練習しよう: %s",
+  "sayitenglish.chat.exam_few": "まずもう少し単語を覚えましょう。テストには3語以上必要です。",
+  "sayitenglish.group.missed": "間違えた単語",
+  "sayitenglish.dictionary.missed_n": "×%s回"
 }

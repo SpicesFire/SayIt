@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "parang katutubo",
   "sayitenglish.accent.great": "napakahusay",
   "sayitenglish.accent.good": "mahusay",
-  "sayitenglish.accent.clear": "malinaw"
+  "sayitenglish.accent.clear": "malinaw",
+  "sayitenglish.rules.unlock": "Pag-unlock: %s",
+  "sayitenglish.unlock.permanent": "Permanente",
+  "sayitenglish.unlock.every": "Sa bawat pulot",
+  "sayitenglish.unlock.held": "Habang hawak",
+  "sayitenglish.desc.unlock": "Kailan itinuturing na alam ang item. Permanente: kapag nasabi nang tama nang isang beses. Sa bawat pulot: tuwing makakakuha ka pa. Habang hawak: hanggang umalis ito sa inventory.",
+  "sayitenglish.rules.exam": "Pagsusulit: %s",
+  "sayitenglish.rules.exam_n": "bawat %s min",
+  "sayitenglish.desc.exam": "Bawat ilang minuto, isang maikling pagsusulit sa mga salitang nakita mo kamakailan at sa mga namali mo. Walang parusa; nagbibigay ng XP ang tamang sagot.",
+  "sayitenglish.hud.retry": "Hindi kita narinig. Sabihin ulit!",
+  "sayitenglish.chat.exam_start": "Oras na ng pagsusulit! %s tanong tungkol sa mga salita mo. Walang kukunin.",
+  "sayitenglish.chat.exam_done": "Tapos na ang pagsusulit: %1$s sa %2$s ang tama (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Sanayin: %s",
+  "sayitenglish.chat.exam_few": "Mag-aral muna ng ilang salita pa: kailangan ng pagsusulit ng hindi bababa sa 3.",
+  "sayitenglish.group.missed": "Mga mali",
+  "sayitenglish.dictionary.missed_n": "mali ×%s"
 }

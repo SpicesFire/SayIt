@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "원어민 수준",
   "sayitenglish.accent.great": "아주 좋음",
   "sayitenglish.accent.good": "좋음",
-  "sayitenglish.accent.clear": "알아들을 수 있음"
+  "sayitenglish.accent.clear": "알아들을 수 있음",
+  "sayitenglish.rules.unlock": "잠금 해제: %s",
+  "sayitenglish.unlock.permanent": "영구",
+  "sayitenglish.unlock.every": "주울 때마다",
+  "sayitenglish.unlock.held": "들고 있는 동안",
+  "sayitenglish.desc.unlock": "아이템을 아는 것으로 치는 때. 영구: 한 번 맞게 말하면. 주울 때마다: 더 얻을 때마다. 들고 있는 동안: 인벤토리에서 나갈 때까지.",
+  "sayitenglish.rules.exam": "시험: %s",
+  "sayitenglish.rules.exam_n": "%s분마다",
+  "sayitenglish.desc.exam": "몇 분마다 최근에 본 단어와 틀린 단어로 짧은 시험을 봅니다. 벌칙은 없고, 정답은 경험치를 줍니다.",
+  "sayitenglish.hud.retry": "잘 못 들었어요. 다시 말해 주세요!",
+  "sayitenglish.chat.exam_start": "시험 시간! 단어 %s문제. 아무것도 잃지 않아요.",
+  "sayitenglish.chat.exam_done": "시험 끝: %2$s문제 중 %1$s개 정답 (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "연습할 단어: %s",
+  "sayitenglish.chat.exam_few": "먼저 단어를 조금 더 배우세요. 시험에는 최소 3개가 필요해요.",
+  "sayitenglish.group.missed": "틀린 단어",
+  "sayitenglish.dictionary.missed_n": "%s번 틀림"
 }

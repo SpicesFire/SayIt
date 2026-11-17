@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "kuin syntyperäisellä",
   "sayitenglish.accent.great": "erittäin hyvä",
   "sayitenglish.accent.good": "hyvä",
-  "sayitenglish.accent.clear": "selkeä"
+  "sayitenglish.accent.clear": "selkeä",
+  "sayitenglish.rules.unlock": "Avaus: %s",
+  "sayitenglish.unlock.permanent": "Pysyvä",
+  "sayitenglish.unlock.every": "Joka poiminnalla",
+  "sayitenglish.unlock.held": "Niin kauan kuin kannat",
+  "sayitenglish.desc.unlock": "Milloin esine lasketaan osatuksi. Pysyvä: kerran oikein sanottu. Joka poiminnalla: aina kun saat lisää. Niin kauan kuin kannat: kunnes se lähtee tavaraluettelosta.",
+  "sayitenglish.rules.exam": "Koe: %s",
+  "sayitenglish.rules.exam_n": "%s min välein",
+  "sayitenglish.desc.exam": "Muutaman minuutin välein lyhyt koe viime aikojen sanoista ja niistä, jotka menivät väärin. Ei rangaistusta; oikeat vastaukset antavat XP:tä.",
+  "sayitenglish.hud.retry": "En kuullut. Sano uudelleen!",
+  "sayitenglish.chat.exam_start": "Koeaika! %s kysymystä sanoistasi. Mitään ei viedä.",
+  "sayitenglish.chat.exam_done": "Koe valmis: %1$s/%2$s oikein (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Harjoiteltavaksi: %s",
+  "sayitenglish.chat.exam_few": "Opettele ensin muutama sana lisää: koe tarvitsee vähintään 3.",
+  "sayitenglish.group.missed": "Virheet",
+  "sayitenglish.dictionary.missed_n": "väärin ×%s"
 }

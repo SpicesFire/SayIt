@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "anyanyelvi szintű",
   "sayitenglish.accent.great": "nagyon jó",
   "sayitenglish.accent.good": "jó",
-  "sayitenglish.accent.clear": "érthető"
+  "sayitenglish.accent.clear": "érthető",
+  "sayitenglish.rules.unlock": "Feloldás: %s",
+  "sayitenglish.unlock.permanent": "Végleges",
+  "sayitenglish.unlock.every": "Minden felvételnél",
+  "sayitenglish.unlock.held": "Amíg nálad van",
+  "sayitenglish.desc.unlock": "Mikor számít egy tárgy tudottnak. Végleges: egyszer helyesen kimondva. Minden felvételnél: valahányszor többet szerzel belőle. Amíg nálad van: amíg el nem hagyja a tárgylistát.",
+  "sayitenglish.rules.exam": "Vizsga: %s",
+  "sayitenglish.rules.exam_n": "%s percenként",
+  "sayitenglish.desc.exam": "Néhány percenként rövid vizsga a nemrég látott és az elrontott szavakból. Nincs büntetés; a jó válaszok XP-t adnak.",
+  "sayitenglish.hud.retry": "Nem hallottalak. Mondd újra!",
+  "sayitenglish.chat.exam_start": "Vizsgaidő! %s kérdés a szavaidból. Semmit nem veszünk el.",
+  "sayitenglish.chat.exam_done": "Vizsga vége: %2$s kérdésből %1$s jó (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Gyakorolni: %s",
+  "sayitenglish.chat.exam_few": "Előbb tanulj még pár szót: a vizsgához legalább 3 kell.",
+  "sayitenglish.group.missed": "Hibák",
+  "sayitenglish.dictionary.missed_n": "%s× hibás"
 }

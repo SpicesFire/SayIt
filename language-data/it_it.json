@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "da madrelingua",
   "sayitenglish.accent.great": "molto buono",
   "sayitenglish.accent.good": "buono",
-  "sayitenglish.accent.clear": "chiaro"
+  "sayitenglish.accent.clear": "chiaro",
+  "sayitenglish.rules.unlock": "Sblocco: %s",
+  "sayitenglish.unlock.permanent": "Permanente",
+  "sayitenglish.unlock.every": "A ogni raccolta",
+  "sayitenglish.unlock.held": "Finché lo tieni",
+  "sayitenglish.desc.unlock": "Quando un oggetto conta come saputo. Permanente: detto giusto una volta. A ogni raccolta: ogni volta che ne prendi altro. Finché lo tieni: finché non esce dall’inventario.",
+  "sayitenglish.rules.exam": "Esame: %s",
+  "sayitenglish.rules.exam_n": "ogni %s min",
+  "sayitenglish.desc.exam": "Ogni pochi minuti, un breve esame sulle parole viste di recente e su quelle sbagliate. Nessuna penalità; le risposte giuste danno XP.",
+  "sayitenglish.hud.retry": "Non ti ho sentito. Ripetilo!",
+  "sayitenglish.chat.exam_start": "Ora d’esame! %s domande sulle tue parole. Non si perde niente.",
+  "sayitenglish.chat.exam_done": "Esame finito: %1$s su %2$s giuste (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Da ripassare: %s",
+  "sayitenglish.chat.exam_few": "Impara prima qualche parola in più: un esame ne richiede almeno 3.",
+  "sayitenglish.group.missed": "Errori",
+  "sayitenglish.dictionary.missed_n": "sbagliata ×%s"
 }

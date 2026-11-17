@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "comme un natif",
   "sayitenglish.accent.great": "très bon",
   "sayitenglish.accent.good": "bon",
-  "sayitenglish.accent.clear": "clair"
+  "sayitenglish.accent.clear": "clair",
+  "sayitenglish.rules.unlock": "Déblocage : %s",
+  "sayitenglish.unlock.permanent": "Permanent",
+  "sayitenglish.unlock.every": "À chaque ramassage",
+  "sayitenglish.unlock.held": "Tant qu’il est porté",
+  "sayitenglish.desc.unlock": "Quand un objet compte comme su. Permanent : dit juste une fois. À chaque ramassage : à chaque fois que tu en obtiens plus. Tant qu’il est porté : jusqu’à ce qu’il quitte ton inventaire.",
+  "sayitenglish.rules.exam": "Examen : %s",
+  "sayitenglish.rules.exam_n": "toutes les %s min",
+  "sayitenglish.desc.exam": "Toutes les quelques minutes, un court examen sur les mots vus récemment et ceux que tu as ratés. Sans pénalité ; les bonnes réponses donnent de l’XP.",
+  "sayitenglish.hud.retry": "Je ne t’ai pas entendu. Redis-le !",
+  "sayitenglish.chat.exam_start": "C’est l’heure de l’examen ! %s questions sur tes mots. Rien n’est retiré.",
+  "sayitenglish.chat.exam_done": "Examen terminé : %1$s sur %2$s justes (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "À réviser : %s",
+  "sayitenglish.chat.exam_few": "Apprends encore quelques mots : un examen en demande au moins 3.",
+  "sayitenglish.group.missed": "Erreurs",
+  "sayitenglish.dictionary.missed_n": "raté ×%s"
 }

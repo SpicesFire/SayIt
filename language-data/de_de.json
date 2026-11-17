@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "wie ein Muttersprachler",
   "sayitenglish.accent.great": "sehr gut",
   "sayitenglish.accent.good": "gut",
-  "sayitenglish.accent.clear": "verständlich"
+  "sayitenglish.accent.clear": "verständlich",
+  "sayitenglish.rules.unlock": "Freischalten: %s",
+  "sayitenglish.unlock.permanent": "Dauerhaft",
+  "sayitenglish.unlock.every": "Bei jedem Aufheben",
+  "sayitenglish.unlock.held": "Solange getragen",
+  "sayitenglish.desc.unlock": "Wann ein Gegenstand als bekannt gilt. Dauerhaft: einmal richtig gesagt. Bei jedem Aufheben: jedes Mal, wenn du mehr davon bekommst. Solange getragen: bis er dein Inventar verlässt.",
+  "sayitenglish.rules.exam": "Prüfung: %s",
+  "sayitenglish.rules.exam_n": "alle %s Min.",
+  "sayitenglish.desc.exam": "Alle paar Minuten eine kurze Prüfung zu den Wörtern der letzten Zeit und denen, die du verpasst hast. Ohne Strafe; richtige Antworten geben EP.",
+  "sayitenglish.hud.retry": "Nicht verstanden. Sag es noch einmal!",
+  "sayitenglish.chat.exam_start": "Prüfungszeit! %s Fragen zu deinen Wörtern. Nichts wird weggenommen.",
+  "sayitenglish.chat.exam_done": "Prüfung fertig: %1$s von %2$s richtig (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Zum Üben: %s",
+  "sayitenglish.chat.exam_few": "Lerne erst ein paar Wörter mehr: Eine Prüfung braucht mindestens 3.",
+  "sayitenglish.group.missed": "Fehler",
+  "sayitenglish.dictionary.missed_n": "%s× verpasst"
 }

@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "native-like",
   "sayitenglish.accent.great": "very good",
   "sayitenglish.accent.good": "good",
-  "sayitenglish.accent.clear": "clear"
+  "sayitenglish.accent.clear": "clear",
+  "sayitenglish.rules.unlock": "Unlock: %s",
+  "sayitenglish.unlock.permanent": "Permanent",
+  "sayitenglish.unlock.every": "Every pickup",
+  "sayitenglish.unlock.held": "While held",
+  "sayitenglish.desc.unlock": "When an item counts as known. Permanent: once said right. Every pickup: each time you get more of it. While held: until it leaves your inventory.",
+  "sayitenglish.rules.exam": "Exam: %s",
+  "sayitenglish.rules.exam_n": "every %s min",
+  "sayitenglish.desc.exam": "Every few minutes, a short exam about the words you met lately and the ones you missed. Never punished; right answers give XP.",
+  "sayitenglish.hud.retry": "Didn't hear you. Say it again!",
+  "sayitenglish.chat.exam_start": "Exam time! %s questions about your words. Nothing is taken away.",
+  "sayitenglish.chat.exam_done": "Exam done: %1$s of %2$s right (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "To practise: %s",
+  "sayitenglish.chat.exam_few": "Learn a few more words first: an exam needs at least 3.",
+  "sayitenglish.group.missed": "Missed",
+  "sayitenglish.dictionary.missed_n": "missed ×%s"
 }

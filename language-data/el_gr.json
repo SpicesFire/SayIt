@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "σαν φυσικός ομιλητής",
   "sayitenglish.accent.great": "πολύ καλή",
   "sayitenglish.accent.good": "καλή",
-  "sayitenglish.accent.clear": "καθαρή"
+  "sayitenglish.accent.clear": "καθαρή",
+  "sayitenglish.rules.unlock": "Ξεκλείδωμα: %s",
+  "sayitenglish.unlock.permanent": "Μόνιμο",
+  "sayitenglish.unlock.every": "Σε κάθε μάζεμα",
+  "sayitenglish.unlock.held": "Όσο το κρατάς",
+  "sayitenglish.desc.unlock": "Πότε ένα αντικείμενο μετράει ως γνωστό. Μόνιμο: όταν ειπωθεί σωστά μία φορά. Σε κάθε μάζεμα: κάθε φορά που παίρνεις κι άλλο. Όσο το κρατάς: μέχρι να φύγει από το απόθεμα.",
+  "sayitenglish.rules.exam": "Εξέταση: %s",
+  "sayitenglish.rules.exam_n": "κάθε %s λεπ.",
+  "sayitenglish.desc.exam": "Κάθε λίγα λεπτά, μια σύντομη εξέταση στις λέξεις που είδες πρόσφατα και σε όσες έχασες. Χωρίς ποινή· οι σωστές απαντήσεις δίνουν XP.",
+  "sayitenglish.hud.retry": "Δεν σε άκουσα. Πες το ξανά!",
+  "sayitenglish.chat.exam_start": "Ώρα για εξέταση! %s ερωτήσεις για τις λέξεις σου. Δεν χάνεις τίποτα.",
+  "sayitenglish.chat.exam_done": "Η εξέταση τελείωσε: %1$s από %2$s σωστές (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Για εξάσκηση: %s",
+  "sayitenglish.chat.exam_few": "Μάθε πρώτα μερικές λέξεις ακόμα: η εξέταση θέλει τουλάχιστον 3.",
+  "sayitenglish.group.missed": "Λάθη",
+  "sayitenglish.dictionary.missed_n": "λάθος ×%s"
 }

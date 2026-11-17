@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "jak u rodzimego mówcy",
   "sayitenglish.accent.great": "bardzo dobry",
   "sayitenglish.accent.good": "dobry",
-  "sayitenglish.accent.clear": "zrozumiały"
+  "sayitenglish.accent.clear": "zrozumiały",
+  "sayitenglish.rules.unlock": "Odblokowanie: %s",
+  "sayitenglish.unlock.permanent": "Na stałe",
+  "sayitenglish.unlock.every": "Przy każdym podniesieniu",
+  "sayitenglish.unlock.held": "Dopóki trzymasz",
+  "sayitenglish.desc.unlock": "Kiedy przedmiot liczy się jako znany. Na stałe: raz powiedziany dobrze. Przy każdym podniesieniu: za każdym razem, gdy zdobywasz więcej. Dopóki trzymasz: aż opuści ekwipunek.",
+  "sayitenglish.rules.exam": "Egzamin: %s",
+  "sayitenglish.rules.exam_n": "co %s min",
+  "sayitenglish.desc.exam": "Co kilka minut krótki egzamin ze słów spotkanych ostatnio i tych, które ci nie wyszły. Bez kar; dobre odpowiedzi dają PD.",
+  "sayitenglish.hud.retry": "Nie usłyszałem. Powiedz jeszcze raz!",
+  "sayitenglish.chat.exam_start": "Czas na egzamin! %s pytań o twoje słowa. Nic nie zostanie zabrane.",
+  "sayitenglish.chat.exam_done": "Egzamin skończony: %1$s z %2$s dobrze (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Do powtórki: %s",
+  "sayitenglish.chat.exam_few": "Najpierw naucz się kilku słów więcej: egzamin wymaga co najmniej 3.",
+  "sayitenglish.group.missed": "Błędy",
+  "sayitenglish.dictionary.missed_n": "błędów: %s"
 }

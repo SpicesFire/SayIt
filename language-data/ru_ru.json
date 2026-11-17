@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "как у носителя",
   "sayitenglish.accent.great": "очень хорошо",
   "sayitenglish.accent.good": "хорошо",
-  "sayitenglish.accent.clear": "понятно"
+  "sayitenglish.accent.clear": "понятно",
+  "sayitenglish.rules.unlock": "Открытие: %s",
+  "sayitenglish.unlock.permanent": "Навсегда",
+  "sayitenglish.unlock.every": "При каждом подборе",
+  "sayitenglish.unlock.held": "Пока в руках",
+  "sayitenglish.desc.unlock": "Когда предмет считается выученным. Навсегда: один раз сказан верно. При каждом подборе: каждый раз, когда получаешь ещё. Пока в руках: пока он не покинет инвентарь.",
+  "sayitenglish.rules.exam": "Экзамен: %s",
+  "sayitenglish.rules.exam_n": "каждые %s мин",
+  "sayitenglish.desc.exam": "Каждые несколько минут — короткий экзамен по недавним словам и тем, где ты ошибся. Без наказаний; верные ответы дают опыт.",
+  "sayitenglish.hud.retry": "Не расслышал. Скажи ещё раз!",
+  "sayitenglish.chat.exam_start": "Время экзамена! %s вопросов по твоим словам. Ничего не отнимут.",
+  "sayitenglish.chat.exam_done": "Экзамен окончен: %1$s из %2$s верно (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Повторить: %s",
+  "sayitenglish.chat.exam_few": "Сначала выучи ещё пару слов: для экзамена нужно хотя бы 3.",
+  "sayitenglish.group.missed": "Ошибки",
+  "sayitenglish.dictionary.missed_n": "ошибок: %s"
 }

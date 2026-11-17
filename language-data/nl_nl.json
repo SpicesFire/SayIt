@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "als een moedertaalspreker",
   "sayitenglish.accent.great": "heel goed",
   "sayitenglish.accent.good": "goed",
-  "sayitenglish.accent.clear": "duidelijk"
+  "sayitenglish.accent.clear": "duidelijk",
+  "sayitenglish.rules.unlock": "Ontgrendelen: %s",
+  "sayitenglish.unlock.permanent": "Blijvend",
+  "sayitenglish.unlock.every": "Bij elke keer oppakken",
+  "sayitenglish.unlock.held": "Zolang je het hebt",
+  "sayitenglish.desc.unlock": "Wanneer een voorwerp als gekend telt. Blijvend: één keer goed gezegd. Bij elke keer oppakken: telkens als je er meer van krijgt. Zolang je het hebt: tot het je inventaris verlaat.",
+  "sayitenglish.rules.exam": "Toets: %s",
+  "sayitenglish.rules.exam_n": "elke %s min",
+  "sayitenglish.desc.exam": "Om de paar minuten een korte toets over de woorden van de laatste tijd en die je fout had. Geen straf; goede antwoorden geven XP.",
+  "sayitenglish.hud.retry": "Ik hoorde je niet. Zeg het nog eens!",
+  "sayitenglish.chat.exam_start": "Toetstijd! %s vragen over je woorden. Er wordt niets afgepakt.",
+  "sayitenglish.chat.exam_done": "Toets klaar: %1$s van %2$s goed (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Om te oefenen: %s",
+  "sayitenglish.chat.exam_few": "Leer eerst nog een paar woorden: een toets heeft er minstens 3 nodig.",
+  "sayitenglish.group.missed": "Fouten",
+  "sayitenglish.dictionary.missed_n": "%s× fout"
 }

@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "som en innfødt",
   "sayitenglish.accent.great": "veldig bra",
   "sayitenglish.accent.good": "bra",
-  "sayitenglish.accent.clear": "tydelig"
+  "sayitenglish.accent.clear": "tydelig",
+  "sayitenglish.rules.unlock": "Opplåsing: %s",
+  "sayitenglish.unlock.permanent": "Permanent",
+  "sayitenglish.unlock.every": "Ved hver plukking",
+  "sayitenglish.unlock.held": "Så lenge du har den",
+  "sayitenglish.desc.unlock": "Når en gjenstand regnes som kjent. Permanent: sagt riktig én gang. Ved hver plukking: hver gang du får mer. Så lenge du har den: til den forlater inventaret.",
+  "sayitenglish.rules.exam": "Prøve: %s",
+  "sayitenglish.rules.exam_n": "hvert %s. min",
+  "sayitenglish.desc.exam": "Med noen minutters mellomrom en kort prøve i ordene du har møtt nylig og dem du bommet på. Ingen straff; riktige svar gir XP.",
+  "sayitenglish.hud.retry": "Jeg hørte deg ikke. Si det igjen!",
+  "sayitenglish.chat.exam_start": "Prøvetid! %s spørsmål om ordene dine. Ingenting blir tatt.",
+  "sayitenglish.chat.exam_done": "Prøven er ferdig: %1$s av %2$s riktige (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Øv på: %s",
+  "sayitenglish.chat.exam_few": "Lær noen flere ord først: en prøve trenger minst 3.",
+  "sayitenglish.group.missed": "Feil",
+  "sayitenglish.dictionary.missed_n": "bom ×%s"
 }

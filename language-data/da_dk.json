@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "som en indfødt",
   "sayitenglish.accent.great": "meget god",
   "sayitenglish.accent.good": "god",
-  "sayitenglish.accent.clear": "tydelig"
+  "sayitenglish.accent.clear": "tydelig",
+  "sayitenglish.rules.unlock": "Oplåsning: %s",
+  "sayitenglish.unlock.permanent": "Permanent",
+  "sayitenglish.unlock.every": "Ved hver opsamling",
+  "sayitenglish.unlock.held": "Så længe du har den",
+  "sayitenglish.desc.unlock": "Hvornår en genstand tæller som kendt. Permanent: sagt rigtigt én gang. Ved hver opsamling: hver gang du får mere. Så længe du har den: indtil den forlader dit inventar.",
+  "sayitenglish.rules.exam": "Prøve: %s",
+  "sayitenglish.rules.exam_n": "hvert %s. min",
+  "sayitenglish.desc.exam": "Med få minutters mellemrum en kort prøve i ordene fra den seneste tid og dem, du missede. Ingen straf; rigtige svar giver XP.",
+  "sayitenglish.hud.retry": "Jeg hørte dig ikke. Sig det igen!",
+  "sayitenglish.chat.exam_start": "Prøvetid! %s spørgsmål om dine ord. Intet bliver taget.",
+  "sayitenglish.chat.exam_done": "Prøven er slut: %1$s af %2$s rigtige (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Øv dig på: %s",
+  "sayitenglish.chat.exam_few": "Lær nogle flere ord først: en prøve kræver mindst 3.",
+  "sayitenglish.group.missed": "Fejl",
+  "sayitenglish.dictionary.missed_n": "misset ×%s"
 }

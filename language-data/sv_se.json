@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "som en infödd",
   "sayitenglish.accent.great": "mycket bra",
   "sayitenglish.accent.good": "bra",
-  "sayitenglish.accent.clear": "tydlig"
+  "sayitenglish.accent.clear": "tydlig",
+  "sayitenglish.rules.unlock": "Upplåsning: %s",
+  "sayitenglish.unlock.permanent": "Permanent",
+  "sayitenglish.unlock.every": "Vid varje upplockning",
+  "sayitenglish.unlock.held": "Så länge du bär det",
+  "sayitenglish.desc.unlock": "När ett föremål räknas som kunnat. Permanent: sagt rätt en gång. Vid varje upplockning: varje gång du får mer. Så länge du bär det: tills det lämnar ditt förråd.",
+  "sayitenglish.rules.exam": "Prov: %s",
+  "sayitenglish.rules.exam_n": "var %s:e min",
+  "sayitenglish.desc.exam": "Med några minuters mellanrum ett kort prov på orden du mött nyligen och dem du missat. Inget straff; rätt svar ger XP.",
+  "sayitenglish.hud.retry": "Jag hörde dig inte. Säg det igen!",
+  "sayitenglish.chat.exam_start": "Provdags! %s frågor om dina ord. Inget tas ifrån dig.",
+  "sayitenglish.chat.exam_done": "Provet klart: %1$s av %2$s rätt (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Att öva på: %s",
+  "sayitenglish.chat.exam_few": "Lär dig några ord till först: ett prov behöver minst 3.",
+  "sayitenglish.group.missed": "Missade",
+  "sayitenglish.dictionary.missed_n": "missad ×%s"
 }

@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "似母語人士",
   "sayitenglish.accent.great": "好好",
   "sayitenglish.accent.good": "好",
-  "sayitenglish.accent.clear": "清楚"
+  "sayitenglish.accent.clear": "清楚",
+  "sayitenglish.rules.unlock": "解鎖：%s",
+  "sayitenglish.unlock.permanent": "永久",
+  "sayitenglish.unlock.every": "每次執起",
+  "sayitenglish.unlock.held": "拎住嘅時候",
+  "sayitenglish.desc.unlock": "物品幾時算學識。永久：講啱一次就得。每次執起：每次攞多啲都要再講。拎住嘅時候：直到佢離開物品欄。",
+  "sayitenglish.rules.exam": "測驗：%s",
+  "sayitenglish.rules.exam_n": "每 %s 分鐘",
+  "sayitenglish.desc.exam": "每隔幾分鐘，就你最近遇到同答錯嘅字做個小測驗。唔會罰；答啱有經驗。",
+  "sayitenglish.hud.retry": "聽唔清楚，再講一次！",
+  "sayitenglish.chat.exam_start": "測驗時間！你啲字共 %s 題。唔會攞走任何嘢。",
+  "sayitenglish.chat.exam_done": "測驗完：%2$s 題啱咗 %1$s 題（%3$s%%）。",
+  "sayitenglish.chat.exam_missed": "要練習：%s",
+  "sayitenglish.chat.exam_few": "先學多幾個字啦：測驗最少要 3 個。",
+  "sayitenglish.group.missed": "錯字簿",
+  "sayitenglish.dictionary.missed_n": "錯咗 %s 次"
 }

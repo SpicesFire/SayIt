@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "anadil gibi",
   "sayitenglish.accent.great": "çok iyi",
   "sayitenglish.accent.good": "iyi",
-  "sayitenglish.accent.clear": "anlaşılır"
+  "sayitenglish.accent.clear": "anlaşılır",
+  "sayitenglish.rules.unlock": "Kilit: %s",
+  "sayitenglish.unlock.permanent": "Kalıcı",
+  "sayitenglish.unlock.every": "Her alışta",
+  "sayitenglish.unlock.held": "Elde tuttukça",
+  "sayitenglish.desc.unlock": "Bir eşya ne zaman bilinmiş sayılır. Kalıcı: bir kez doğru söyleyince. Her alışta: her yenisini aldığında. Elde tuttukça: envanterinden çıkana kadar.",
+  "sayitenglish.rules.exam": "Sınav: %s",
+  "sayitenglish.rules.exam_n": "%s dakikada bir",
+  "sayitenglish.desc.exam": "Birkaç dakikada bir, son karşılaştığın ve yanlış yaptığın kelimelerden kısa bir sınav. Ceza yok; doğru cevaplar XP verir.",
+  "sayitenglish.hud.retry": "Seni duyamadım. Bir daha söyle!",
+  "sayitenglish.chat.exam_start": "Sınav zamanı! Kelimelerinden %s soru. Hiçbir şey alınmaz.",
+  "sayitenglish.chat.exam_done": "Sınav bitti: %2$s sorudan %1$s doğru (%%%3$s).",
+  "sayitenglish.chat.exam_missed": "Çalışılacaklar: %s",
+  "sayitenglish.chat.exam_few": "Önce birkaç kelime daha öğren: sınav için en az 3 gerekiyor.",
+  "sayitenglish.group.missed": "Yanlışlar",
+  "sayitenglish.dictionary.missed_n": "%s kez yanlış"
 }

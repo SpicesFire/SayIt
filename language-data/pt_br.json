@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "de nativo",
   "sayitenglish.accent.great": "muito bom",
   "sayitenglish.accent.good": "bom",
-  "sayitenglish.accent.clear": "claro"
+  "sayitenglish.accent.clear": "claro",
+  "sayitenglish.rules.unlock": "Desbloqueio: %s",
+  "sayitenglish.unlock.permanent": "Permanente",
+  "sayitenglish.unlock.every": "A cada coleta",
+  "sayitenglish.unlock.held": "Enquanto segura",
+  "sayitenglish.desc.unlock": "Quando um item conta como sabido. Permanente: dito certo uma vez. A cada coleta: toda vez que você pega mais. Enquanto segura: até ele sair do inventário.",
+  "sayitenglish.rules.exam": "Prova: %s",
+  "sayitenglish.rules.exam_n": "a cada %s min",
+  "sayitenglish.desc.exam": "A cada poucos minutos, uma prova curta com as palavras vistas há pouco e as que você errou. Sem penalidade; respostas certas dão XP.",
+  "sayitenglish.hud.retry": "Não ouvi você. Fale de novo!",
+  "sayitenglish.chat.exam_start": "Hora da prova! %s perguntas sobre suas palavras. Nada é tirado.",
+  "sayitenglish.chat.exam_done": "Prova terminada: %1$s de %2$s certas (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "Para praticar: %s",
+  "sayitenglish.chat.exam_few": "Aprenda mais algumas palavras primeiro: a prova precisa de pelo menos 3.",
+  "sayitenglish.group.missed": "Erros",
+  "sayitenglish.dictionary.missed_n": "errada ×%s"
 }

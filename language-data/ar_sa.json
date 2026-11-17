@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "كالناطق الأصلي",
   "sayitenglish.accent.great": "جيد جدًا",
   "sayitenglish.accent.good": "جيد",
-  "sayitenglish.accent.clear": "واضح"
+  "sayitenglish.accent.clear": "واضح",
+  "sayitenglish.rules.unlock": "الفتح: %s",
+  "sayitenglish.unlock.permanent": "دائم",
+  "sayitenglish.unlock.every": "عند كل التقاط",
+  "sayitenglish.unlock.held": "طالما تحمله",
+  "sayitenglish.desc.unlock": "متى يُحسب العنصر معروفًا. دائم: بعد قوله صحيحًا مرة. عند كل التقاط: كلما حصلت على المزيد. طالما تحمله: حتى يغادر مخزونك.",
+  "sayitenglish.rules.exam": "اختبار: %s",
+  "sayitenglish.rules.exam_n": "كل %s دقيقة",
+  "sayitenglish.desc.exam": "كل بضع دقائق اختبار قصير عن الكلمات التي رأيتها مؤخرًا والتي أخطأت فيها. بلا عقوبة؛ الإجابات الصحيحة تمنح خبرة.",
+  "sayitenglish.hud.retry": "لم أسمعك. قلها مرة أخرى!",
+  "sayitenglish.chat.exam_start": "وقت الاختبار! %s أسئلة عن كلماتك. لن يُؤخذ منك شيء.",
+  "sayitenglish.chat.exam_done": "انتهى الاختبار: %1$s من %2$s صحيحة (%3$s%%).",
+  "sayitenglish.chat.exam_missed": "للتدريب: %s",
+  "sayitenglish.chat.exam_few": "تعلّم بضع كلمات أخرى أولًا: الاختبار يحتاج 3 على الأقل.",
+  "sayitenglish.group.missed": "الأخطاء",
+  "sayitenglish.dictionary.missed_n": "خطأ ×%s"
 }

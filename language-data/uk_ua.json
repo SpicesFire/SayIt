@@ -464,5 +464,20 @@
   "sayitenglish.accent.native": "як у носія",
   "sayitenglish.accent.great": "дуже добре",
   "sayitenglish.accent.good": "добре",
-  "sayitenglish.accent.clear": "зрозуміло"
+  "sayitenglish.accent.clear": "зрозуміло",
+  "sayitenglish.rules.unlock": "Відкриття: %s",
+  "sayitenglish.unlock.permanent": "Назавжди",
+  "sayitenglish.unlock.every": "При кожному підніманні",
+  "sayitenglish.unlock.held": "Поки тримаєш",
+  "sayitenglish.desc.unlock": "Коли предмет вважається вивченим. Назавжди: один раз сказано правильно. При кожному підніманні: щоразу, коли отримуєш ще. Поки тримаєш: доки він не залишить інвентар.",
+  "sayitenglish.rules.exam": "Іспит: %s",
+  "sayitenglish.rules.exam_n": "кожні %s хв",
+  "sayitenglish.desc.exam": "Кожні кілька хвилин — короткий іспит зі слів, які трапилися нещодавно, і тих, де ти помилився. Без покарань; правильні відповіді дають досвід.",
+  "sayitenglish.hud.retry": "Не почув. Скажи ще раз!",
+  "sayitenglish.chat.exam_start": "Час іспиту! %s запитань про твої слова. Нічого не забирають.",
+  "sayitenglish.chat.exam_done": "Іспит завершено: %1$s з %2$s правильно (%3$s %%).",
+  "sayitenglish.chat.exam_missed": "Повторити: %s",
+  "sayitenglish.chat.exam_few": "Спершу вивчи ще кілька слів: для іспиту потрібно щонайменше 3.",
+  "sayitenglish.group.missed": "Помилки",
+  "sayitenglish.dictionary.missed_n": "помилок: %s"
 }
