@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "To practise: %s",
   "sayitenglish.chat.exam_few": "Learn a few more words first: an exam needs at least 3.",
   "sayitenglish.group.missed": "Missed",
-  "sayitenglish.dictionary.missed_n": "missed ×%s"
+  "sayitenglish.dictionary.missed_n": "missed ×%s",
+  "sayitenglish.mic_ask.title": "Do you have a microphone?",
+  "sayitenglish.mic_ask.text": "SayIt asks you to say words out loud. No microphone? Then you type the answers instead (press the type key), and nothing extra is downloaded. You can change this any time in Settings › Voice.",
+  "sayitenglish.mic_ask.yes": "Yes, I have one",
+  "sayitenglish.mic_ask.no": "No, I'll type",
+  "sayitenglish.report.button": "Report a problem",
+  "sayitenglish.desc.report": "Uploads the game's log to mclo.gs (your player name and computer user name are hidden) and copies the link, so you can paste it on our Discord or GitHub.",
+  "sayitenglish.report.sending": "Uploading the log…",
+  "sayitenglish.report.done": "Log uploaded and the link copied: %1$s. Paste it in our Discord (%2$s) with a few words about what happened.",
+  "sayitenglish.report.failed": "The log could not be uploaded. Check your internet connection and try again.",
+  "sayitenglish.penalty.mobs": "Monsters",
+  "sayitenglish.hud.lost.mobs": "MONSTERS!",
+  "sayitenglish.rules.tips": "Key tips: %s",
+  "sayitenglish.desc.tips": "A short line with SayIt's keys in the chat when you join a world.",
+  "sayitenglish.tips.keys": "SayIt: %1$s settings · %2$s pause · %3$s type the answer · %4$s Pocket Dictionary · %5$s hear the word"
 }

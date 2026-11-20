@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Do powtórki: %s",
   "sayitenglish.chat.exam_few": "Najpierw naucz się kilku słów więcej: egzamin wymaga co najmniej 3.",
   "sayitenglish.group.missed": "Błędy",
-  "sayitenglish.dictionary.missed_n": "błędów: %s"
+  "sayitenglish.dictionary.missed_n": "błędów: %s",
+  "sayitenglish.mic_ask.title": "Masz mikrofon?",
+  "sayitenglish.mic_ask.text": "SayIt prosi o mówienie słów na głos. Nie masz mikrofonu? Wtedy wpisujesz odpowiedzi (klawiszem pisania) i nic dodatkowego się nie pobiera. Możesz to zmienić w każdej chwili w Ustawienia › Głos.",
+  "sayitenglish.mic_ask.yes": "Tak, mam",
+  "sayitenglish.mic_ask.no": "Nie, będę pisać",
+  "sayitenglish.report.button": "Zgłoś problem",
+  "sayitenglish.desc.report": "Wysyła dziennik gry na mclo.gs (nazwa gracza i nazwa użytkownika komputera są ukryte) i kopiuje link do wklejenia na naszym Discordzie lub GitHubie.",
+  "sayitenglish.report.sending": "Wysyłanie dziennika…",
+  "sayitenglish.report.done": "Dziennik wysłany, link skopiowany: %1$s. Wklej go na naszym Discordzie (%2$s) z kilkoma słowami o tym, co się stało.",
+  "sayitenglish.report.failed": "Nie udało się wysłać dziennika. Sprawdź internet i spróbuj ponownie.",
+  "sayitenglish.penalty.mobs": "Potwory",
+  "sayitenglish.hud.lost.mobs": "POTWORY!",
+  "sayitenglish.rules.tips": "Podpowiedzi klawiszy: %s",
+  "sayitenglish.desc.tips": "Krótka linijka z klawiszami SayIt na czacie po wejściu do świata.",
+  "sayitenglish.tips.keys": "SayIt: %1$s ustawienia · %2$s pauza · %3$s wpisz odpowiedź · %4$s Słownik kieszonkowy · %5$s posłuchaj słowa"
 }

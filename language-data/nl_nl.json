@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Om te oefenen: %s",
   "sayitenglish.chat.exam_few": "Leer eerst nog een paar woorden: een toets heeft er minstens 3 nodig.",
   "sayitenglish.group.missed": "Fouten",
-  "sayitenglish.dictionary.missed_n": "%s× fout"
+  "sayitenglish.dictionary.missed_n": "%s× fout",
+  "sayitenglish.mic_ask.title": "Heb je een microfoon?",
+  "sayitenglish.mic_ask.text": "SayIt vraagt je woorden hardop te zeggen. Geen microfoon? Dan typ je de antwoorden (met de typtoets) en wordt er niets extra gedownload. Je kunt dit altijd wijzigen in Instellingen › Stem.",
+  "sayitenglish.mic_ask.yes": "Ja, heb ik",
+  "sayitenglish.mic_ask.no": "Nee, ik typ",
+  "sayitenglish.report.button": "Probleem melden",
+  "sayitenglish.desc.report": "Uploadt het spellogboek naar mclo.gs (je spelersnaam en computergebruikersnaam worden verborgen) en kopieert de link, zodat je hem op onze Discord of GitHub kunt plakken.",
+  "sayitenglish.report.sending": "Logboek uploaden…",
+  "sayitenglish.report.done": "Logboek geüpload en link gekopieerd: %1$s. Plak hem op onze Discord (%2$s) met een paar woorden over wat er gebeurde.",
+  "sayitenglish.report.failed": "Het logboek kon niet worden geüpload. Controleer je internet en probeer het opnieuw.",
+  "sayitenglish.penalty.mobs": "Monsters",
+  "sayitenglish.hud.lost.mobs": "MONSTERS!",
+  "sayitenglish.rules.tips": "Toetstips: %s",
+  "sayitenglish.desc.tips": "Een korte regel met de toetsen van SayIt in de chat als je een wereld betreedt.",
+  "sayitenglish.tips.keys": "SayIt: %1$s instellingen · %2$s pauze · %3$s antwoord typen · %4$s Zakwoordenboek · %5$s woord horen"
 }

@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Sanayin: %s",
   "sayitenglish.chat.exam_few": "Mag-aral muna ng ilang salita pa: kailangan ng pagsusulit ng hindi bababa sa 3.",
   "sayitenglish.group.missed": "Mga mali",
-  "sayitenglish.dictionary.missed_n": "mali ×%s"
+  "sayitenglish.dictionary.missed_n": "mali ×%s",
+  "sayitenglish.mic_ask.title": "May mikropono ka ba?",
+  "sayitenglish.mic_ask.text": "Hinihiling ng SayIt na sabihin mo nang malakas ang mga salita. Walang mikropono? Kung gayon ita-type mo ang mga sagot (gamit ang type key), at walang dagdag na ida-download. Mababago mo ito anumang oras sa Settings › Voice.",
+  "sayitenglish.mic_ask.yes": "Oo, mayroon",
+  "sayitenglish.mic_ask.no": "Wala, mag-ta-type ako",
+  "sayitenglish.report.button": "Mag-ulat ng problema",
+  "sayitenglish.desc.report": "Ina-upload ang log ng laro sa mclo.gs (nakatago ang pangalan mo bilang player at ang username ng computer) at kinokopya ang link para mai-paste mo sa aming Discord o GitHub.",
+  "sayitenglish.report.sending": "Ina-upload ang log…",
+  "sayitenglish.report.done": "Na-upload ang log at nakopya ang link: %1$s. I-paste ito sa aming Discord (%2$s) kasama ang ilang salita tungkol sa nangyari.",
+  "sayitenglish.report.failed": "Hindi na-upload ang log. Tingnan ang internet mo at subukan ulit.",
+  "sayitenglish.penalty.mobs": "Mga halimaw",
+  "sayitenglish.hud.lost.mobs": "MGA HALIMAW!",
+  "sayitenglish.rules.tips": "Mga tip sa key: %s",
+  "sayitenglish.desc.tips": "Isang maikling linya ng mga key ng SayIt sa chat kapag pumasok ka sa isang mundo.",
+  "sayitenglish.tips.keys": "SayIt: %1$s settings · %2$s pause · %3$s i-type ang sagot · %4$s Pocket Dictionary · %5$s pakinggan ang salita"
 }

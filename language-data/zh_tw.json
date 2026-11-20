@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "需要練習：%s",
   "sayitenglish.chat.exam_few": "先多學幾個字吧：測驗至少需要 3 個。",
   "sayitenglish.group.missed": "錯字本",
-  "sayitenglish.dictionary.missed_n": "錯 %s 次"
+  "sayitenglish.dictionary.missed_n": "錯 %s 次",
+  "sayitenglish.mic_ask.title": "你有麥克風嗎？",
+  "sayitenglish.mic_ask.text": "SayIt 需要你大聲說出單字。沒有麥克風？那就輸入答案（按輸入鍵），不會額外下載任何東西。可以隨時在 設定 › 語音 中更改。",
+  "sayitenglish.mic_ask.yes": "有",
+  "sayitenglish.mic_ask.no": "沒有，我用打字",
+  "sayitenglish.report.button": "回報問題",
+  "sayitenglish.desc.report": "把遊戲記錄上傳到 mclo.gs（會隱藏你的玩家名稱和電腦使用者名稱）並複製連結，方便你貼到我們的 Discord 或 GitHub。",
+  "sayitenglish.report.sending": "正在上傳記錄…",
+  "sayitenglish.report.done": "記錄已上傳，連結已複製：%1$s。請貼到我們的 Discord（%2$s），並簡單說明發生了什麼。",
+  "sayitenglish.report.failed": "記錄上傳失敗。請檢查網路後再試一次。",
+  "sayitenglish.penalty.mobs": "怪物",
+  "sayitenglish.hud.lost.mobs": "怪物來了！",
+  "sayitenglish.rules.tips": "按鍵提示：%s",
+  "sayitenglish.desc.tips": "進入世界時在聊天欄顯示一行 SayIt 按鍵提示。",
+  "sayitenglish.tips.keys": "SayIt：%1$s 設定 · %2$s 暫停 · %3$s 輸入答案 · %4$s 口袋字典 · %5$s 聽單字"
 }

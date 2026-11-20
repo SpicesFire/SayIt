@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Para praticar: %s",
   "sayitenglish.chat.exam_few": "Aprenda mais algumas palavras primeiro: a prova precisa de pelo menos 3.",
   "sayitenglish.group.missed": "Erros",
-  "sayitenglish.dictionary.missed_n": "errada ×%s"
+  "sayitenglish.dictionary.missed_n": "errada ×%s",
+  "sayitenglish.mic_ask.title": "Você tem microfone?",
+  "sayitenglish.mic_ask.text": "O SayIt pede que você diga palavras em voz alta. Sem microfone? Então você digita as respostas (tecla de digitar) e nada extra é baixado. Dá para mudar quando quiser em Configurações › Voz.",
+  "sayitenglish.mic_ask.yes": "Sim, tenho",
+  "sayitenglish.mic_ask.no": "Não, vou digitar",
+  "sayitenglish.report.button": "Relatar um problema",
+  "sayitenglish.desc.report": "Envia o log do jogo para o mclo.gs (seu nome de jogador e o usuário do computador ficam ocultos) e copia o link para você colar no nosso Discord ou GitHub.",
+  "sayitenglish.report.sending": "Enviando o log…",
+  "sayitenglish.report.done": "Log enviado e link copiado: %1$s. Cole no nosso Discord (%2$s) com algumas palavras sobre o que aconteceu.",
+  "sayitenglish.report.failed": "Não foi possível enviar o log. Verifique sua internet e tente de novo.",
+  "sayitenglish.penalty.mobs": "Monstros",
+  "sayitenglish.hud.lost.mobs": "MONSTROS!",
+  "sayitenglish.rules.tips": "Dicas de teclas: %s",
+  "sayitenglish.desc.tips": "Uma linha curta com as teclas do SayIt no chat ao entrar em um mundo.",
+  "sayitenglish.tips.keys": "SayIt: %1$s configurações · %2$s pausar · %3$s digitar a resposta · %4$s Dicionário de Bolso · %5$s ouvir a palavra"
 }

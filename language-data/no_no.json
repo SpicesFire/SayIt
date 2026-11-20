@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Øv på: %s",
   "sayitenglish.chat.exam_few": "Lær noen flere ord først: en prøve trenger minst 3.",
   "sayitenglish.group.missed": "Feil",
-  "sayitenglish.dictionary.missed_n": "bom ×%s"
+  "sayitenglish.dictionary.missed_n": "bom ×%s",
+  "sayitenglish.mic_ask.title": "Har du en mikrofon?",
+  "sayitenglish.mic_ask.text": "SayIt ber deg si ord høyt. Ingen mikrofon? Da skriver du svarene (med skrivetasten), og ingenting ekstra lastes ned. Du kan endre det når som helst i Innstillinger › Stemme.",
+  "sayitenglish.mic_ask.yes": "Ja, jeg har en",
+  "sayitenglish.mic_ask.no": "Nei, jeg skriver",
+  "sayitenglish.report.button": "Rapporter et problem",
+  "sayitenglish.desc.report": "Laster opp spillets logg til mclo.gs (spillernavnet ditt og datamaskinens brukernavn skjules) og kopierer lenken, så du kan lime den inn på Discord eller GitHub.",
+  "sayitenglish.report.sending": "Laster opp loggen…",
+  "sayitenglish.report.done": "Loggen er lastet opp og lenken kopiert: %1$s. Lim den inn på Discorden vår (%2$s) med noen ord om hva som skjedde.",
+  "sayitenglish.report.failed": "Loggen kunne ikke lastes opp. Sjekk internett og prøv igjen.",
+  "sayitenglish.penalty.mobs": "Monstre",
+  "sayitenglish.hud.lost.mobs": "MONSTRE!",
+  "sayitenglish.rules.tips": "Tastetips: %s",
+  "sayitenglish.desc.tips": "En kort linje med SayIts taster i chatten når du går inn i en verden.",
+  "sayitenglish.tips.keys": "SayIt: %1$s innstillinger · %2$s pause · %3$s skriv svaret · %4$s Lommeordbok · %5$s hør ordet"
 }

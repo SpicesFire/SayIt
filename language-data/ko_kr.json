@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "연습할 단어: %s",
   "sayitenglish.chat.exam_few": "먼저 단어를 조금 더 배우세요. 시험에는 최소 3개가 필요해요.",
   "sayitenglish.group.missed": "틀린 단어",
-  "sayitenglish.dictionary.missed_n": "%s번 틀림"
+  "sayitenglish.dictionary.missed_n": "%s번 틀림",
+  "sayitenglish.mic_ask.title": "마이크가 있나요?",
+  "sayitenglish.mic_ask.text": "SayIt은 단어를 소리 내어 말하게 합니다. 마이크가 없으면 답을 입력하면 됩니다(입력 키). 추가로 내려받는 것은 없습니다. 설정 › 음성에서 언제든 바꿀 수 있어요.",
+  "sayitenglish.mic_ask.yes": "네, 있어요",
+  "sayitenglish.mic_ask.no": "아니요, 입력할게요",
+  "sayitenglish.report.button": "문제 신고",
+  "sayitenglish.desc.report": "게임 로그를 mclo.gs에 올리고(플레이어 이름과 컴퓨터 사용자 이름은 가려짐) 링크를 복사합니다. Discord나 GitHub에 붙여 넣으세요.",
+  "sayitenglish.report.sending": "로그 올리는 중…",
+  "sayitenglish.report.done": "로그를 올리고 링크를 복사했어요: %1$s. Discord(%2$s)에 무슨 일이 있었는지 짧게 적어 붙여 넣어 주세요.",
+  "sayitenglish.report.failed": "로그를 올리지 못했어요. 인터넷 연결을 확인하고 다시 시도하세요.",
+  "sayitenglish.penalty.mobs": "몬스터",
+  "sayitenglish.hud.lost.mobs": "몬스터!",
+  "sayitenglish.rules.tips": "키 안내: %s",
+  "sayitenglish.desc.tips": "월드에 들어갈 때 채팅에 SayIt 키를 짧게 보여 줍니다.",
+  "sayitenglish.tips.keys": "SayIt: %1$s 설정 · %2$s 일시 정지 · %3$s 답 입력 · %4$s 포켓 사전 · %5$s 단어 듣기"
 }

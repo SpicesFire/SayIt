@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Повторить: %s",
   "sayitenglish.chat.exam_few": "Сначала выучи ещё пару слов: для экзамена нужно хотя бы 3.",
   "sayitenglish.group.missed": "Ошибки",
-  "sayitenglish.dictionary.missed_n": "ошибок: %s"
+  "sayitenglish.dictionary.missed_n": "ошибок: %s",
+  "sayitenglish.mic_ask.title": "У тебя есть микрофон?",
+  "sayitenglish.mic_ask.text": "SayIt просит произносить слова вслух. Нет микрофона? Тогда ты вводишь ответы (клавишей ввода), и ничего лишнего не скачивается. Это можно изменить в любой момент: Настройки › Голос.",
+  "sayitenglish.mic_ask.yes": "Да, есть",
+  "sayitenglish.mic_ask.no": "Нет, буду печатать",
+  "sayitenglish.report.button": "Сообщить о проблеме",
+  "sayitenglish.desc.report": "Загружает журнал игры на mclo.gs (имя игрока и имя пользователя компьютера скрываются) и копирует ссылку, чтобы вставить её в наш Discord или на GitHub.",
+  "sayitenglish.report.sending": "Загрузка журнала…",
+  "sayitenglish.report.done": "Журнал загружен, ссылка скопирована: %1$s. Вставь её в наш Discord (%2$s) и коротко опиши, что случилось.",
+  "sayitenglish.report.failed": "Не удалось загрузить журнал. Проверь интернет и попробуй снова.",
+  "sayitenglish.penalty.mobs": "Монстры",
+  "sayitenglish.hud.lost.mobs": "МОНСТРЫ!",
+  "sayitenglish.rules.tips": "Подсказки клавиш: %s",
+  "sayitenglish.desc.tips": "Короткая строка с клавишами SayIt в чате при входе в мир.",
+  "sayitenglish.tips.keys": "SayIt: %1$s настройки · %2$s пауза · %3$s ввести ответ · %4$s Карманный словарь · %5$s послушать слово"
 }

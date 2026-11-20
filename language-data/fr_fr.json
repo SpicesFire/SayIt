@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "À réviser : %s",
   "sayitenglish.chat.exam_few": "Apprends encore quelques mots : un examen en demande au moins 3.",
   "sayitenglish.group.missed": "Erreurs",
-  "sayitenglish.dictionary.missed_n": "raté ×%s"
+  "sayitenglish.dictionary.missed_n": "raté ×%s",
+  "sayitenglish.mic_ask.title": "As-tu un micro ?",
+  "sayitenglish.mic_ask.text": "SayIt te demande de dire des mots à voix haute. Pas de micro ? Tu tapes alors les réponses (touche de saisie), et rien de plus n’est téléchargé. Tu peux changer ça à tout moment dans Réglages › Voix.",
+  "sayitenglish.mic_ask.yes": "Oui, j’en ai un",
+  "sayitenglish.mic_ask.no": "Non, je tape",
+  "sayitenglish.report.button": "Signaler un problème",
+  "sayitenglish.desc.report": "Envoie le journal du jeu sur mclo.gs (ton pseudo et ton nom d’utilisateur sont masqués) et copie le lien, pour le coller sur notre Discord ou GitHub.",
+  "sayitenglish.report.sending": "Envoi du journal…",
+  "sayitenglish.report.done": "Journal envoyé et lien copié : %1$s. Colle-le sur notre Discord (%2$s) avec quelques mots sur ce qui s’est passé.",
+  "sayitenglish.report.failed": "Le journal n’a pas pu être envoyé. Vérifie ta connexion internet et réessaie.",
+  "sayitenglish.penalty.mobs": "Monstres",
+  "sayitenglish.hud.lost.mobs": "MONSTRES !",
+  "sayitenglish.rules.tips": "Astuces touches : %s",
+  "sayitenglish.desc.tips": "Une courte ligne avec les touches de SayIt dans le chat quand tu rejoins un monde.",
+  "sayitenglish.tips.keys": "SayIt : %1$s réglages · %2$s pause · %3$s taper la réponse · %4$s Dictionnaire de poche · %5$s écouter le mot"
 }

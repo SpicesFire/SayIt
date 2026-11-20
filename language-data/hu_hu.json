@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Gyakorolni: %s",
   "sayitenglish.chat.exam_few": "Előbb tanulj még pár szót: a vizsgához legalább 3 kell.",
   "sayitenglish.group.missed": "Hibák",
-  "sayitenglish.dictionary.missed_n": "%s× hibás"
+  "sayitenglish.dictionary.missed_n": "%s× hibás",
+  "sayitenglish.mic_ask.title": "Van mikrofonod?",
+  "sayitenglish.mic_ask.text": "A SayIt arra kér, hogy hangosan mondd ki a szavakat. Nincs mikrofonod? Akkor begépeled a válaszokat (gépelés gombbal), és semmi plusz nem töltődik le. Ezt bármikor megváltoztathatod: Beállítások › Hang.",
+  "sayitenglish.mic_ask.yes": "Igen, van",
+  "sayitenglish.mic_ask.no": "Nem, gépelek",
+  "sayitenglish.report.button": "Hiba jelentése",
+  "sayitenglish.desc.report": "Feltölti a játék naplóját az mclo.gs-re (a játékosneved és a számítógép felhasználóneve rejtve marad), és kimásolja a linket, hogy beilleszthesd a Discordunkra vagy a GitHubra.",
+  "sayitenglish.report.sending": "Napló feltöltése…",
+  "sayitenglish.report.done": "Napló feltöltve, link kimásolva: %1$s. Illeszd be a Discordunkra (%2$s) pár szóval arról, mi történt.",
+  "sayitenglish.report.failed": "A naplót nem sikerült feltölteni. Ellenőrizd az internetet, és próbáld újra.",
+  "sayitenglish.penalty.mobs": "Szörnyek",
+  "sayitenglish.hud.lost.mobs": "SZÖRNYEK!",
+  "sayitenglish.rules.tips": "Billentyűtippek: %s",
+  "sayitenglish.desc.tips": "Egy rövid sor a SayIt billentyűivel a csevegőben, amikor belépsz egy világba.",
+  "sayitenglish.tips.keys": "SayIt: %1$s beállítások · %2$s szünet · %3$s válasz begépelése · %4$s Zsebszótár · %5$s szó meghallgatása"
 }

@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Harjoiteltavaksi: %s",
   "sayitenglish.chat.exam_few": "Opettele ensin muutama sana lisää: koe tarvitsee vähintään 3.",
   "sayitenglish.group.missed": "Virheet",
-  "sayitenglish.dictionary.missed_n": "väärin ×%s"
+  "sayitenglish.dictionary.missed_n": "väärin ×%s",
+  "sayitenglish.mic_ask.title": "Onko sinulla mikrofoni?",
+  "sayitenglish.mic_ask.text": "SayIt pyytää sanomaan sanoja ääneen. Ei mikrofonia? Silloin kirjoitat vastaukset (kirjoitusnäppäimellä), eikä mitään ylimääräistä ladata. Voit muuttaa tämän milloin vain kohdassa Asetukset › Ääni.",
+  "sayitenglish.mic_ask.yes": "Kyllä, on",
+  "sayitenglish.mic_ask.no": "Ei, kirjoitan",
+  "sayitenglish.report.button": "Ilmoita ongelmasta",
+  "sayitenglish.desc.report": "Lataa pelin lokin mclo.gs-palveluun (pelaajanimesi ja tietokoneen käyttäjänimi piilotetaan) ja kopioi linkin, jonka voit liittää Discordiimme tai GitHubiin.",
+  "sayitenglish.report.sending": "Ladataan lokia…",
+  "sayitenglish.report.done": "Loki ladattu ja linkki kopioitu: %1$s. Liitä se Discordiimme (%2$s) ja kerro lyhyesti, mitä tapahtui.",
+  "sayitenglish.report.failed": "Lokia ei voitu ladata. Tarkista nettiyhteys ja yritä uudelleen.",
+  "sayitenglish.penalty.mobs": "Hirviöt",
+  "sayitenglish.hud.lost.mobs": "HIRVIÖITÄ!",
+  "sayitenglish.rules.tips": "Näppäinvinkit: %s",
+  "sayitenglish.desc.tips": "Lyhyt rivi SayItin näppäimistä chatissa, kun liityt maailmaan.",
+  "sayitenglish.tips.keys": "SayIt: %1$s asetukset · %2$s tauko · %3$s kirjoita vastaus · %4$s Taskusanakirja · %5$s kuuntele sana"
 }

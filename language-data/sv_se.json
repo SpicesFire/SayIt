@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Att öva på: %s",
   "sayitenglish.chat.exam_few": "Lär dig några ord till först: ett prov behöver minst 3.",
   "sayitenglish.group.missed": "Missade",
-  "sayitenglish.dictionary.missed_n": "missad ×%s"
+  "sayitenglish.dictionary.missed_n": "missad ×%s",
+  "sayitenglish.mic_ask.title": "Har du en mikrofon?",
+  "sayitenglish.mic_ask.text": "SayIt ber dig säga ord högt. Ingen mikrofon? Då skriver du svaren (med skrivtangenten) och inget extra laddas ner. Du kan ändra det när som helst i Inställningar › Röst.",
+  "sayitenglish.mic_ask.yes": "Ja, jag har en",
+  "sayitenglish.mic_ask.no": "Nej, jag skriver",
+  "sayitenglish.report.button": "Rapportera ett problem",
+  "sayitenglish.desc.report": "Laddar upp spelets logg till mclo.gs (ditt spelarnamn och datorns användarnamn döljs) och kopierar länken så att du kan klistra in den på vår Discord eller GitHub.",
+  "sayitenglish.report.sending": "Laddar upp loggen…",
+  "sayitenglish.report.done": "Loggen uppladdad och länken kopierad: %1$s. Klistra in den på vår Discord (%2$s) med några ord om vad som hände.",
+  "sayitenglish.report.failed": "Loggen kunde inte laddas upp. Kontrollera internet och försök igen.",
+  "sayitenglish.penalty.mobs": "Monster",
+  "sayitenglish.hud.lost.mobs": "MONSTER!",
+  "sayitenglish.rules.tips": "Tangenttips: %s",
+  "sayitenglish.desc.tips": "En kort rad med SayIts tangenter i chatten när du går in i en värld.",
+  "sayitenglish.tips.keys": "SayIt: %1$s inställningar · %2$s paus · %3$s skriv svaret · %4$s Fickordbok · %5$s hör ordet"
 }

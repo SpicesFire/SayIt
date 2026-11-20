@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "للتدريب: %s",
   "sayitenglish.chat.exam_few": "تعلّم بضع كلمات أخرى أولًا: الاختبار يحتاج 3 على الأقل.",
   "sayitenglish.group.missed": "الأخطاء",
-  "sayitenglish.dictionary.missed_n": "خطأ ×%s"
+  "sayitenglish.dictionary.missed_n": "خطأ ×%s",
+  "sayitenglish.mic_ask.title": "هل لديك ميكروفون؟",
+  "sayitenglish.mic_ask.text": "يطلب منك SayIt أن تنطق الكلمات بصوت عالٍ. لا يوجد ميكروفون؟ إذن تكتب الإجابات (بزر الكتابة) ولا يُنزَّل أي شيء إضافي. يمكنك تغيير ذلك في أي وقت من الإعدادات › الصوت.",
+  "sayitenglish.mic_ask.yes": "نعم، لدي",
+  "sayitenglish.mic_ask.no": "لا، سأكتب",
+  "sayitenglish.report.button": "الإبلاغ عن مشكلة",
+  "sayitenglish.desc.report": "يرفع سجل اللعبة إلى mclo.gs (يُخفى اسم اللاعب واسم مستخدم الحاسوب) وينسخ الرابط لتلصقه في Discord أو GitHub الخاص بنا.",
+  "sayitenglish.report.sending": "جارٍ رفع السجل…",
+  "sayitenglish.report.done": "تم رفع السجل ونسخ الرابط: %1$s. الصقه في Discord الخاص بنا (%2$s) مع كلمات قليلة عما حدث.",
+  "sayitenglish.report.failed": "تعذّر رفع السجل. تحقق من اتصالك بالإنترنت وحاول مرة أخرى.",
+  "sayitenglish.penalty.mobs": "وحوش",
+  "sayitenglish.hud.lost.mobs": "وحوش!",
+  "sayitenglish.rules.tips": "تلميحات الأزرار: %s",
+  "sayitenglish.desc.tips": "سطر قصير بأزرار SayIt في الدردشة عند دخول عالم.",
+  "sayitenglish.tips.keys": "SayIt: %1$s الإعدادات · %2$s إيقاف مؤقت · %3$s اكتب الإجابة · %4$s قاموس الجيب · %5$s استمع إلى الكلمة"
 }

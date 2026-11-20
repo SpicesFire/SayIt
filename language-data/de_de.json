@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Zum Üben: %s",
   "sayitenglish.chat.exam_few": "Lerne erst ein paar Wörter mehr: Eine Prüfung braucht mindestens 3.",
   "sayitenglish.group.missed": "Fehler",
-  "sayitenglish.dictionary.missed_n": "%s× verpasst"
+  "sayitenglish.dictionary.missed_n": "%s× verpasst",
+  "sayitenglish.mic_ask.title": "Hast du ein Mikrofon?",
+  "sayitenglish.mic_ask.text": "SayIt lässt dich Wörter laut sagen. Kein Mikrofon? Dann tippst du die Antworten (mit der Tipp-Taste), und es wird nichts extra heruntergeladen. Du kannst das jederzeit unter Einstellungen › Stimme ändern.",
+  "sayitenglish.mic_ask.yes": "Ja, habe ich",
+  "sayitenglish.mic_ask.no": "Nein, ich tippe",
+  "sayitenglish.report.button": "Problem melden",
+  "sayitenglish.desc.report": "Lädt das Spielprotokoll zu mclo.gs hoch (dein Spielername und Computer-Benutzername werden versteckt) und kopiert den Link, damit du ihn auf unserem Discord oder GitHub einfügen kannst.",
+  "sayitenglish.report.sending": "Protokoll wird hochgeladen…",
+  "sayitenglish.report.done": "Protokoll hochgeladen und Link kopiert: %1$s. Füge ihn auf unserem Discord (%2$s) mit ein paar Worten zum Problem ein.",
+  "sayitenglish.report.failed": "Das Protokoll konnte nicht hochgeladen werden. Prüfe deine Internetverbindung und versuche es erneut.",
+  "sayitenglish.penalty.mobs": "Monster",
+  "sayitenglish.hud.lost.mobs": "MONSTER!",
+  "sayitenglish.rules.tips": "Tasten-Tipps: %s",
+  "sayitenglish.desc.tips": "Eine kurze Zeile mit den SayIt-Tasten im Chat, wenn du eine Welt betrittst.",
+  "sayitenglish.tips.keys": "SayIt: %1$s Einstellungen · %2$s Pause · %3$s Antwort tippen · %4$s Taschenwörterbuch · %5$s Wort anhören"
 }

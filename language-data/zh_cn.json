@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "需要练习：%s",
   "sayitenglish.chat.exam_few": "先多学几个词吧：测验至少需要 3 个。",
   "sayitenglish.group.missed": "错词本",
-  "sayitenglish.dictionary.missed_n": "错 %s 次"
+  "sayitenglish.dictionary.missed_n": "错 %s 次",
+  "sayitenglish.mic_ask.title": "你有麦克风吗？",
+  "sayitenglish.mic_ask.text": "SayIt 需要你大声说出单词。没有麦克风？那就输入答案（按输入键），不会额外下载任何东西。可以随时在 设置 › 语音 中更改。",
+  "sayitenglish.mic_ask.yes": "有",
+  "sayitenglish.mic_ask.no": "没有，我来输入",
+  "sayitenglish.report.button": "报告问题",
+  "sayitenglish.desc.report": "把游戏日志上传到 mclo.gs（会隐藏你的玩家名和电脑用户名）并复制链接，方便你贴到我们的 Discord 或 GitHub。",
+  "sayitenglish.report.sending": "正在上传日志…",
+  "sayitenglish.report.done": "日志已上传，链接已复制：%1$s。请贴到我们的 Discord（%2$s），并简单说明发生了什么。",
+  "sayitenglish.report.failed": "日志上传失败。请检查网络后重试。",
+  "sayitenglish.penalty.mobs": "怪物",
+  "sayitenglish.hud.lost.mobs": "怪物来了！",
+  "sayitenglish.rules.tips": "按键提示：%s",
+  "sayitenglish.desc.tips": "进入世界时在聊天栏显示一行 SayIt 按键提示。",
+  "sayitenglish.tips.keys": "SayIt：%1$s 设置 · %2$s 暂停 · %3$s 输入答案 · %4$s 口袋词典 · %5$s 听单词"
 }

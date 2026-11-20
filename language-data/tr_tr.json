@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Çalışılacaklar: %s",
   "sayitenglish.chat.exam_few": "Önce birkaç kelime daha öğren: sınav için en az 3 gerekiyor.",
   "sayitenglish.group.missed": "Yanlışlar",
-  "sayitenglish.dictionary.missed_n": "%s kez yanlış"
+  "sayitenglish.dictionary.missed_n": "%s kez yanlış",
+  "sayitenglish.mic_ask.title": "Mikrofonun var mı?",
+  "sayitenglish.mic_ask.text": "SayIt kelimeleri yüksek sesle söylemeni ister. Mikrofonun yoksa cevapları yazarsın (yazma tuşuyla) ve fazladan bir şey indirilmez. Bunu istediğin zaman Ayarlar › Ses'ten değiştirebilirsin.",
+  "sayitenglish.mic_ask.yes": "Evet, var",
+  "sayitenglish.mic_ask.no": "Hayır, yazacağım",
+  "sayitenglish.report.button": "Sorun bildir",
+  "sayitenglish.desc.report": "Oyunun kayıt dosyasını mclo.gs'ye yükler (oyuncu adın ve bilgisayar kullanıcı adın gizlenir) ve linki kopyalar; Discord'umuza ya da GitHub'a yapıştırabilirsin.",
+  "sayitenglish.report.sending": "Kayıt yükleniyor…",
+  "sayitenglish.report.done": "Kayıt yüklendi, link kopyalandı: %1$s. Discord'umuza (%2$s) ne olduğunu birkaç kelimeyle yazıp yapıştır.",
+  "sayitenglish.report.failed": "Kayıt yüklenemedi. İnternet bağlantını kontrol edip tekrar dene.",
+  "sayitenglish.penalty.mobs": "Canavarlar",
+  "sayitenglish.hud.lost.mobs": "CANAVARLAR!",
+  "sayitenglish.rules.tips": "Tuş ipuçları: %s",
+  "sayitenglish.desc.tips": "Bir dünyaya girince sohbette SayIt'in tuşlarını gösteren kısa bir satır.",
+  "sayitenglish.tips.keys": "SayIt: %1$s ayarlar · %2$s duraklat · %3$s cevabı yaz · %4$s Cep Sözlüğü · %5$s kelimeyi dinle"
 }

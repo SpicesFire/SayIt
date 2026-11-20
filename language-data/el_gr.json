@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "Για εξάσκηση: %s",
   "sayitenglish.chat.exam_few": "Μάθε πρώτα μερικές λέξεις ακόμα: η εξέταση θέλει τουλάχιστον 3.",
   "sayitenglish.group.missed": "Λάθη",
-  "sayitenglish.dictionary.missed_n": "λάθος ×%s"
+  "sayitenglish.dictionary.missed_n": "λάθος ×%s",
+  "sayitenglish.mic_ask.title": "Έχεις μικρόφωνο;",
+  "sayitenglish.mic_ask.text": "Το SayIt σού ζητά να λες λέξεις δυνατά. Δεν έχεις μικρόφωνο; Τότε γράφεις τις απαντήσεις (με το πλήκτρο γραφής) και δεν κατεβαίνει τίποτα επιπλέον. Μπορείς να το αλλάξεις όποτε θέλεις στις Ρυθμίσεις › Φωνή.",
+  "sayitenglish.mic_ask.yes": "Ναι, έχω",
+  "sayitenglish.mic_ask.no": "Όχι, θα γράφω",
+  "sayitenglish.report.button": "Αναφορά προβλήματος",
+  "sayitenglish.desc.report": "Ανεβάζει το αρχείο καταγραφής του παιχνιδιού στο mclo.gs (το όνομα παίκτη και ο χρήστης του υπολογιστή κρύβονται) και αντιγράφει τον σύνδεσμο για να τον επικολλήσεις στο Discord ή στο GitHub μας.",
+  "sayitenglish.report.sending": "Ανέβασμα αρχείου…",
+  "sayitenglish.report.done": "Το αρχείο ανέβηκε και ο σύνδεσμος αντιγράφηκε: %1$s. Επικόλλησέ τον στο Discord μας (%2$s) με λίγα λόγια για το τι έγινε.",
+  "sayitenglish.report.failed": "Το αρχείο δεν ανέβηκε. Έλεγξε τη σύνδεσή σου και δοκίμασε ξανά.",
+  "sayitenglish.penalty.mobs": "Τέρατα",
+  "sayitenglish.hud.lost.mobs": "ΤΕΡΑΤΑ!",
+  "sayitenglish.rules.tips": "Συμβουλές πλήκτρων: %s",
+  "sayitenglish.desc.tips": "Μια σύντομη γραμμή με τα πλήκτρα του SayIt στη συνομιλία όταν μπαίνεις σε έναν κόσμο.",
+  "sayitenglish.tips.keys": "SayIt: %1$s ρυθμίσεις · %2$s παύση · %3$s γράψε την απάντηση · %4$s Λεξικό τσέπης · %5$s άκου τη λέξη"
 }

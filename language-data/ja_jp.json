@@ -479,5 +479,19 @@
   "sayitenglish.chat.exam_missed": "練習しよう: %s",
   "sayitenglish.chat.exam_few": "まずもう少し単語を覚えましょう。テストには3語以上必要です。",
   "sayitenglish.group.missed": "間違えた単語",
-  "sayitenglish.dictionary.missed_n": "×%s回"
+  "sayitenglish.dictionary.missed_n": "×%s回",
+  "sayitenglish.mic_ask.title": "マイクはありますか？",
+  "sayitenglish.mic_ask.text": "SayIt では単語を声に出して言います。マイクがない場合は、答えを入力します（入力キー）。追加のダウンロードはありません。設定 › 音声 でいつでも変更できます。",
+  "sayitenglish.mic_ask.yes": "はい、あります",
+  "sayitenglish.mic_ask.no": "いいえ、入力します",
+  "sayitenglish.report.button": "問題を報告",
+  "sayitenglish.desc.report": "ゲームのログを mclo.gs にアップロードし（プレイヤー名とパソコンのユーザー名は隠されます）、リンクをコピーします。Discord や GitHub に貼り付けてください。",
+  "sayitenglish.report.sending": "ログをアップロード中…",
+  "sayitenglish.report.done": "ログをアップロードし、リンクをコピーしました: %1$s。Discord（%2$s）に何が起きたかと一緒に貼り付けてください。",
+  "sayitenglish.report.failed": "ログをアップロードできませんでした。インターネット接続を確認して、もう一度お試しください。",
+  "sayitenglish.penalty.mobs": "モンスター",
+  "sayitenglish.hud.lost.mobs": "モンスター！",
+  "sayitenglish.rules.tips": "キーのヒント: %s",
+  "sayitenglish.desc.tips": "ワールドに入ったとき、SayIt のキーをチャットに短く表示します。",
+  "sayitenglish.tips.keys": "SayIt: %1$s 設定 · %2$s 一時停止 · %3$s 答えを入力 · %4$s ポケット辞書 · %5$s 単語を聞く"
 }
