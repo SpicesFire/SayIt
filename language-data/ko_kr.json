@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "몬스터!",
   "sayitenglish.rules.tips": "키 안내: %s",
   "sayitenglish.desc.tips": "월드에 들어갈 때 채팅에 SayIt 키를 짧게 보여 줍니다.",
-  "sayitenglish.tips.keys": "SayIt: %1$s 설정 · %2$s 일시 정지 · %3$s 답 입력 · %4$s 포켓 사전 · %5$s 단어 듣기"
+  "sayitenglish.tips.keys": "SayIt: %1$s 설정 · %2$s 일시 정지 · %3$s 답 입력 · %4$s 포켓 사전 · %5$s 단어 듣기",
+  "sayitenglish.look.this": "이건 %s(이)에요.",
+  "sayitenglish.look.that": "저건 %s(이)에요.",
+  "sayitenglish.voice.piper_confirm.title": "자연스러운 목소리를 받을까요?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt가 오픈 소스 음성 프로그램 Piper(GitHub 릴리스에서)와 언어별 목소리(Hugging Face에서), 약 80 MB를 내려받아 확인한 뒤 컴퓨터에서 Piper를 실행해요. 아무것도 전송되지 않아요.",
+  "sayitenglish.difficulty.challenge": "챌린지",
+  "sayitenglish.run.none": "아직 기록이 없어요. 다음 질문부터 시작돼요. 팁: U › 문제 › 난이도 › 챌린지.",
+  "sayitenglish.run.title": "지금까지의 SayIt 기록 (%s):",
+  "sayitenglish.run.dragon": "엔더 드래곤을 쓰러뜨렸어요! SayIt 기록 (%s):",
+  "sayitenglish.run.time": "시간: %s",
+  "sayitenglish.run.asked": "질문: %1$s · 정답: %2$s · 놓침: %3$s",
+  "sayitenglish.run.lost": "잃은 아이템: %1$s · 죽음: %2$s",
+  "sayitenglish.run.never": "끝내 못 외운 단어: %1$s (%2$s번 중 0)",
+  "sayitenglish.run.hardest": "가장 어려웠던 단어: %1$s (%2$s번 놓침)",
+  "sayitenglish.run.reset": "새 기록: /sayit run reset",
+  "sayitenglish.run.started": "다음 질문부터 새 기록이 시작돼요."
 }

@@ -493,5 +493,18 @@
   "sayitenglish.hud.lost.mobs": "وحوش!",
   "sayitenglish.rules.tips": "تلميحات الأزرار: %s",
   "sayitenglish.desc.tips": "سطر قصير بأزرار SayIt في الدردشة عند دخول عالم.",
-  "sayitenglish.tips.keys": "SayIt: %1$s الإعدادات · %2$s إيقاف مؤقت · %3$s اكتب الإجابة · %4$s قاموس الجيب · %5$s استمع إلى الكلمة"
+  "sayitenglish.tips.keys": "SayIt: %1$s الإعدادات · %2$s إيقاف مؤقت · %3$s اكتب الإجابة · %4$s قاموس الجيب · %5$s استمع إلى الكلمة",
+  "sayitenglish.voice.piper_confirm.title": "هل تريد تنزيل الصوت الطبيعي؟",
+  "sayitenglish.voice.piper_confirm.text": "سيُنزّل SayIt برنامج الصوت مفتوح المصدر Piper (من إصداره على GitHub) وصوتًا للغتك (من Hugging Face)، حوالي 80 MB، ويتحقق منهما ثم يشغّل Piper على حاسوبك. لا يُرسَل أي شيء.",
+  "sayitenglish.difficulty.challenge": "تحدٍّ",
+  "sayitenglish.run.none": "لا توجد جولة بعد: تبدأ مع سؤالك التالي. نصيحة: U › الأسئلة › الصعوبة › تحدٍّ.",
+  "sayitenglish.run.title": "جولتك في SayIt (%s) حتى الآن:",
+  "sayitenglish.run.dragon": "مات تنين إندر! جولتك في SayIt (%s):",
+  "sayitenglish.run.time": "الوقت: %s",
+  "sayitenglish.run.asked": "الأسئلة: %1$s · صحيحة: %2$s · فائتة: %3$s",
+  "sayitenglish.run.lost": "أشياء مفقودة: %1$s · مرات الموت: %2$s",
+  "sayitenglish.run.never": "لم تتعلمها أبدًا: %1$s (0 من %2$s)",
+  "sayitenglish.run.hardest": "الأصعب: %1$s (%2$s أخطاء)",
+  "sayitenglish.run.reset": "جولة جديدة: /sayit run reset",
+  "sayitenglish.run.started": "تبدأ جولة جديدة مع سؤالك التالي."
 }

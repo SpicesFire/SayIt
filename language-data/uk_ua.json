@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "МОНСТРИ!",
   "sayitenglish.rules.tips": "Підказки клавіш: %s",
   "sayitenglish.desc.tips": "Короткий рядок із клавішами SayIt у чаті під час входу у світ.",
-  "sayitenglish.tips.keys": "SayIt: %1$s налаштування · %2$s пауза · %3$s ввести відповідь · %4$s Кишеньковий словник · %5$s послухати слово"
+  "sayitenglish.tips.keys": "SayIt: %1$s налаштування · %2$s пауза · %3$s ввести відповідь · %4$s Кишеньковий словник · %5$s послухати слово",
+  "sayitenglish.look.this": "Це %s.",
+  "sayitenglish.look.that": "Там — %s.",
+  "sayitenglish.voice.piper_confirm.title": "Завантажити живий голос?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt завантажить відкриту програму озвучення Piper (з релізу на GitHub) і голос для твоєї мови (з Hugging Face), близько 80 МБ, перевірить їх і запустить Piper на твоєму комп'ютері. Нічого нікуди не надсилається.",
+  "sayitenglish.difficulty.challenge": "Виклик",
+  "sayitenglish.run.none": "Забігу ще немає: він почнеться з наступного питання. Порада: U › Питання › Складність › Виклик.",
+  "sayitenglish.run.title": "Твій забіг SayIt (%s) наразі:",
+  "sayitenglish.run.dragon": "Дракон Енду мертвий! Твій забіг SayIt (%s):",
+  "sayitenglish.run.time": "Час: %s",
+  "sayitenglish.run.asked": "Питань: %1$s · Правильно: %2$s · Повз: %3$s",
+  "sayitenglish.run.lost": "Втрачено предметів: %1$s · Смертей: %2$s",
+  "sayitenglish.run.never": "Так і не вивчено: %1$s (0 з %2$s)",
+  "sayitenglish.run.hardest": "Найважче: %1$s (%2$s промахів)",
+  "sayitenglish.run.reset": "Новий забіг: /sayit run reset",
+  "sayitenglish.run.started": "Новий забіг почнеться з наступного питання."
 }

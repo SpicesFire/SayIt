@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "怪物來了！",
   "sayitenglish.rules.tips": "按鍵提示：%s",
   "sayitenglish.desc.tips": "進入世界時在聊天欄顯示一行 SayIt 按鍵提示。",
-  "sayitenglish.tips.keys": "SayIt：%1$s 設定 · %2$s 暫停 · %3$s 輸入答案 · %4$s 口袋字典 · %5$s 聽單字"
+  "sayitenglish.tips.keys": "SayIt：%1$s 設定 · %2$s 暫停 · %3$s 輸入答案 · %4$s 口袋字典 · %5$s 聽單字",
+  "sayitenglish.look.this": "這是%s。",
+  "sayitenglish.look.that": "那是%s。",
+  "sayitenglish.voice.piper_confirm.title": "下載自然聲音嗎？",
+  "sayitenglish.voice.piper_confirm.text": "SayIt 會下載開源語音程式 Piper（來自其 GitHub 發行版）和你所學語言的聲音（來自 Hugging Face），約 80 MB，驗證後在你的電腦上執行 Piper。不會傳送任何內容。",
+  "sayitenglish.difficulty.challenge": "挑戰",
+  "sayitenglish.run.none": "還沒有紀錄：下一個問題開始計算。提示：U › 題目 › 難度 › 挑戰。",
+  "sayitenglish.run.title": "你目前的 SayIt 紀錄（%s）：",
+  "sayitenglish.run.dragon": "終界龍死了！你的 SayIt 紀錄（%s）：",
+  "sayitenglish.run.time": "時間：%s",
+  "sayitenglish.run.asked": "提問：%1$s · 答對：%2$s · 答錯：%3$s",
+  "sayitenglish.run.lost": "失去的物品：%1$s · 死亡：%2$s",
+  "sayitenglish.run.never": "始終沒學會：%1$s（%2$s 次中 0 次）",
+  "sayitenglish.run.hardest": "最難：%1$s（錯 %2$s 次）",
+  "sayitenglish.run.reset": "重新開始：/sayit run reset",
+  "sayitenglish.run.started": "下一個問題開始新的紀錄。"
 }

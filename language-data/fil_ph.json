@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "MGA HALIMAW!",
   "sayitenglish.rules.tips": "Mga tip sa key: %s",
   "sayitenglish.desc.tips": "Isang maikling linya ng mga key ng SayIt sa chat kapag pumasok ka sa isang mundo.",
-  "sayitenglish.tips.keys": "SayIt: %1$s settings · %2$s pause · %3$s i-type ang sagot · %4$s Pocket Dictionary · %5$s pakinggan ang salita"
+  "sayitenglish.tips.keys": "SayIt: %1$s settings · %2$s pause · %3$s i-type ang sagot · %4$s Pocket Dictionary · %5$s pakinggan ang salita",
+  "sayitenglish.look.this": "Ito ay %s.",
+  "sayitenglish.look.that": "Iyan ay %s.",
+  "sayitenglish.voice.piper_confirm.title": "I-download ang natural na boses?",
+  "sayitenglish.voice.piper_confirm.text": "Ida-download ng SayIt ang open-source na voice program na Piper (mula sa GitHub release nito) at isang boses para sa wika mo (mula sa Hugging Face), mga 80 MB, susuriin ang mga ito at patatakbuhin ang Piper sa computer mo. Walang ipinapadala kahit saan.",
+  "sayitenglish.difficulty.challenge": "Hamon",
+  "sayitenglish.run.none": "Wala pang run: magsisimula ito sa susunod mong tanong. Tip: U › Mga tanong › Hirap › Hamon.",
+  "sayitenglish.run.title": "Ang SayIt run mo sa %s sa ngayon:",
+  "sayitenglish.run.dragon": "Patay na ang Ender Dragon! Ang SayIt run mo sa %s:",
+  "sayitenglish.run.time": "Oras: %s",
+  "sayitenglish.run.asked": "Tinanong: %1$s · Tama: %2$s · Mali: %3$s",
+  "sayitenglish.run.lost": "Nawalang item: %1$s · Pagkamatay: %2$s",
+  "sayitenglish.run.never": "Hindi kailanman natutunan: %1$s (0 sa %2$s)",
+  "sayitenglish.run.hardest": "Pinakamahirap: %1$s (%2$s mali)",
+  "sayitenglish.run.reset": "Bagong run: /sayit run reset",
+  "sayitenglish.run.started": "Magsisimula ang bagong run sa susunod mong tanong."
 }

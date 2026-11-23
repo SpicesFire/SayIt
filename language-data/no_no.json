@@ -493,5 +493,18 @@
   "sayitenglish.hud.lost.mobs": "MONSTRE!",
   "sayitenglish.rules.tips": "Tastetips: %s",
   "sayitenglish.desc.tips": "En kort linje med SayIts taster i chatten når du går inn i en verden.",
-  "sayitenglish.tips.keys": "SayIt: %1$s innstillinger · %2$s pause · %3$s skriv svaret · %4$s Lommeordbok · %5$s hør ordet"
+  "sayitenglish.tips.keys": "SayIt: %1$s innstillinger · %2$s pause · %3$s skriv svaret · %4$s Lommeordbok · %5$s hør ordet",
+  "sayitenglish.voice.piper_confirm.title": "Laste ned den naturlige stemmen?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt laster ned stemmeprogrammet Piper med åpen kildekode (fra GitHub-utgivelsen) og en stemme for språket ditt (fra Hugging Face), ca. 80 MB, sjekker dem og kjører Piper på datamaskinen din. Ingenting sendes.",
+  "sayitenglish.difficulty.challenge": "Utfordring",
+  "sayitenglish.run.none": "Ingen runde ennå: den starter med neste spørsmål. Tips: U › Spørsmål › Vanskelighetsgrad › Utfordring.",
+  "sayitenglish.run.title": "SayIt-runden din på %s så langt:",
+  "sayitenglish.run.dragon": "Enderdragen er død! SayIt-runden din på %s:",
+  "sayitenglish.run.time": "Tid: %s",
+  "sayitenglish.run.asked": "Spurt: %1$s · Riktige: %2$s · Bom: %3$s",
+  "sayitenglish.run.lost": "Tapte gjenstander: %1$s · Dødsfall: %2$s",
+  "sayitenglish.run.never": "Aldri lært: %1$s (0 av %2$s)",
+  "sayitenglish.run.hardest": "Vanskeligst: %1$s (%2$s bom)",
+  "sayitenglish.run.reset": "Ny runde: /sayit run reset",
+  "sayitenglish.run.started": "En ny runde starter med neste spørsmål."
 }

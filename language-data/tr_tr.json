@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "CANAVARLAR!",
   "sayitenglish.rules.tips": "Tuş ipuçları: %s",
   "sayitenglish.desc.tips": "Bir dünyaya girince sohbette SayIt'in tuşlarını gösteren kısa bir satır.",
-  "sayitenglish.tips.keys": "SayIt: %1$s ayarlar · %2$s duraklat · %3$s cevabı yaz · %4$s Cep Sözlüğü · %5$s kelimeyi dinle"
+  "sayitenglish.tips.keys": "SayIt: %1$s ayarlar · %2$s duraklat · %3$s cevabı yaz · %4$s Cep Sözlüğü · %5$s kelimeyi dinle",
+  "sayitenglish.look.this": "Bu bir %s.",
+  "sayitenglish.look.that": "Şu bir %s.",
+  "sayitenglish.voice.piper_confirm.title": "Doğal ses indirilsin mi?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt açık kaynaklı Piper ses programını (GitHub sürümünden) ve dilin için bir sesi (Hugging Face'ten) indirecek, yaklaşık 80 MB; ikisini doğrulayıp Piper'ı bilgisayarında çalıştıracak. Hiçbir yere bir şey gönderilmez.",
+  "sayitenglish.difficulty.challenge": "Meydan okuma",
+  "sayitenglish.run.none": "Henüz bir koşu yok: bir sonraki soruyla başlar. İpucu: U › Sorular › Zorluk › Meydan okuma.",
+  "sayitenglish.run.title": "%s koşun şimdiye kadar:",
+  "sayitenglish.run.dragon": "Ender Ejderi öldü! %s koşun:",
+  "sayitenglish.run.time": "Süre: %s",
+  "sayitenglish.run.asked": "Sorulan: %1$s · Doğru: %2$s · Kaçan: %3$s",
+  "sayitenglish.run.lost": "Kaybedilen eşya: %1$s · Ölüm: %2$s",
+  "sayitenglish.run.never": "Hiç öğrenilemeyen: %1$s (%2$s denemede 0)",
+  "sayitenglish.run.hardest": "En zoru: %1$s (%2$s kaçırma)",
+  "sayitenglish.run.reset": "Yeni koşu: /sayit run reset",
+  "sayitenglish.run.started": "Yeni koşu bir sonraki soruyla başlıyor."
 }

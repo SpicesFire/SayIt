@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "POTWORY!",
   "sayitenglish.rules.tips": "Podpowiedzi klawiszy: %s",
   "sayitenglish.desc.tips": "Krótka linijka z klawiszami SayIt na czacie po wejściu do świata.",
-  "sayitenglish.tips.keys": "SayIt: %1$s ustawienia · %2$s pauza · %3$s wpisz odpowiedź · %4$s Słownik kieszonkowy · %5$s posłuchaj słowa"
+  "sayitenglish.tips.keys": "SayIt: %1$s ustawienia · %2$s pauza · %3$s wpisz odpowiedź · %4$s Słownik kieszonkowy · %5$s posłuchaj słowa",
+  "sayitenglish.look.this": "To jest %s.",
+  "sayitenglish.look.that": "Tam jest %s.",
+  "sayitenglish.voice.piper_confirm.title": "Pobrać naturalny głos?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt pobierze otwartoźródłowy program głosowy Piper (z wydania na GitHubie) i głos dla twojego języka (z Hugging Face), ok. 80 MB, sprawdzi je i uruchomi Piper na twoim komputerze. Nic nie jest wysyłane.",
+  "sayitenglish.difficulty.challenge": "Wyzwanie",
+  "sayitenglish.run.none": "Nie ma jeszcze rozgrywki: zacznie się przy następnym pytaniu. Wskazówka: U › Pytania › Trudność › Wyzwanie.",
+  "sayitenglish.run.title": "Twoja rozgrywka SayIt (%s) do tej pory:",
+  "sayitenglish.run.dragon": "Smok Kresu nie żyje! Twoja rozgrywka SayIt (%s):",
+  "sayitenglish.run.time": "Czas: %s",
+  "sayitenglish.run.asked": "Pytania: %1$s · Dobrze: %2$s · Źle: %3$s",
+  "sayitenglish.run.lost": "Stracone przedmioty: %1$s · Śmierci: %2$s",
+  "sayitenglish.run.never": "Nigdy nienauczone: %1$s (0 na %2$s)",
+  "sayitenglish.run.hardest": "Najtrudniejsze: %1$s (%2$s pomyłek)",
+  "sayitenglish.run.reset": "Nowa rozgrywka: /sayit run reset",
+  "sayitenglish.run.started": "Nowa rozgrywka zacznie się przy następnym pytaniu."
 }

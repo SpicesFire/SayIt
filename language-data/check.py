@@ -18,6 +18,8 @@ warnings = []
 ACTIONS = ("swim", "sprint", "climb", "glide", "horse", "boat", "minecart", "eat", "drink", "cook", "chest", "wake",
            "place", "break", "meet", "give")
 OPTIONAL = tuple("sayitenglish.s." + a + "." for a in ACTIONS)
+# 1.3.3: "This is …" for the look key, only where the sentence needs no gendered article
+OPTIONAL += ("sayitenglish.look.",)
 for name in sorted(os.listdir(HERE)):
     if not name.endswith(".json") or name == "en_us.json":
         continue

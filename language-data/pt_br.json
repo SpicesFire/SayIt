@@ -493,5 +493,18 @@
   "sayitenglish.hud.lost.mobs": "MONSTROS!",
   "sayitenglish.rules.tips": "Dicas de teclas: %s",
   "sayitenglish.desc.tips": "Uma linha curta com as teclas do SayIt no chat ao entrar em um mundo.",
-  "sayitenglish.tips.keys": "SayIt: %1$s configurações · %2$s pausar · %3$s digitar a resposta · %4$s Dicionário de Bolso · %5$s ouvir a palavra"
+  "sayitenglish.tips.keys": "SayIt: %1$s configurações · %2$s pausar · %3$s digitar a resposta · %4$s Dicionário de Bolso · %5$s ouvir a palavra",
+  "sayitenglish.voice.piper_confirm.title": "Baixar a voz natural?",
+  "sayitenglish.voice.piper_confirm.text": "O SayIt vai baixar o programa de voz de código aberto Piper (da versão no GitHub) e uma voz para o seu idioma (do Hugging Face), cerca de 80 MB, verificar os dois e rodar o Piper no seu computador. Nada é enviado.",
+  "sayitenglish.difficulty.challenge": "Desafio",
+  "sayitenglish.run.none": "Ainda não há partida: ela começa na próxima pergunta. Dica: U › Perguntas › Dificuldade › Desafio.",
+  "sayitenglish.run.title": "Sua partida de SayIt em %s até agora:",
+  "sayitenglish.run.dragon": "O Ender Dragon morreu! Sua partida de SayIt em %s:",
+  "sayitenglish.run.time": "Tempo: %s",
+  "sayitenglish.run.asked": "Perguntas: %1$s · Certas: %2$s · Erradas: %3$s",
+  "sayitenglish.run.lost": "Itens perdidos: %1$s · Mortes: %2$s",
+  "sayitenglish.run.never": "Nunca aprendida: %1$s (0 de %2$s)",
+  "sayitenglish.run.hardest": "A mais difícil: %1$s (%2$s erros)",
+  "sayitenglish.run.reset": "Nova partida: /sayit run reset",
+  "sayitenglish.run.started": "Uma nova partida começa na próxima pergunta."
 }

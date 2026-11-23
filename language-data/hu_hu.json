@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "SZÖRNYEK!",
   "sayitenglish.rules.tips": "Billentyűtippek: %s",
   "sayitenglish.desc.tips": "Egy rövid sor a SayIt billentyűivel a csevegőben, amikor belépsz egy világba.",
-  "sayitenglish.tips.keys": "SayIt: %1$s beállítások · %2$s szünet · %3$s válasz begépelése · %4$s Zsebszótár · %5$s szó meghallgatása"
+  "sayitenglish.tips.keys": "SayIt: %1$s beállítások · %2$s szünet · %3$s válasz begépelése · %4$s Zsebszótár · %5$s szó meghallgatása",
+  "sayitenglish.look.this": "Ez egy %s.",
+  "sayitenglish.look.that": "Az ott egy %s.",
+  "sayitenglish.voice.piper_confirm.title": "Letöltöd a természetes hangot?",
+  "sayitenglish.voice.piper_confirm.text": "A SayIt letölti a nyílt forráskódú Piper hangprogramot (a GitHub-kiadásából) és egy hangot a nyelvedhez (a Hugging Face-ről), kb. 80 MB, ellenőrzi őket, és futtatja a Pipert a gépeden. Semmit nem küld el.",
+  "sayitenglish.difficulty.challenge": "Kihívás",
+  "sayitenglish.run.none": "Még nincs menet: a következő kérdéssel indul. Tipp: U › Kérdések › Nehézség › Kihívás.",
+  "sayitenglish.run.title": "A SayIt-meneted (%s) eddig:",
+  "sayitenglish.run.dragon": "Az Ender-sárkány halott! A SayIt-meneted (%s):",
+  "sayitenglish.run.time": "Idő: %s",
+  "sayitenglish.run.asked": "Kérdés: %1$s · Jó: %2$s · Rossz: %3$s",
+  "sayitenglish.run.lost": "Elvesztett tárgyak: %1$s · Halálok: %2$s",
+  "sayitenglish.run.never": "Sosem tanultad meg: %1$s (%2$s-ból 0)",
+  "sayitenglish.run.hardest": "A legnehezebb: %1$s (%2$s hiba)",
+  "sayitenglish.run.reset": "Új menet: /sayit run reset",
+  "sayitenglish.run.started": "Új menet indul a következő kérdéssel."
 }

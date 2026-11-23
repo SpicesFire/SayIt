@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "HIRVIÖITÄ!",
   "sayitenglish.rules.tips": "Näppäinvinkit: %s",
   "sayitenglish.desc.tips": "Lyhyt rivi SayItin näppäimistä chatissa, kun liityt maailmaan.",
-  "sayitenglish.tips.keys": "SayIt: %1$s asetukset · %2$s tauko · %3$s kirjoita vastaus · %4$s Taskusanakirja · %5$s kuuntele sana"
+  "sayitenglish.tips.keys": "SayIt: %1$s asetukset · %2$s tauko · %3$s kirjoita vastaus · %4$s Taskusanakirja · %5$s kuuntele sana",
+  "sayitenglish.look.this": "Tämä on %s.",
+  "sayitenglish.look.that": "Tuo on %s.",
+  "sayitenglish.voice.piper_confirm.title": "Ladataanko luonnollinen ääni?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt lataa avoimen lähdekoodin Piper-puheohjelman (sen GitHub-julkaisusta) ja äänen kielellesi (Hugging Facesta), noin 80 Mt, tarkistaa ne ja ajaa Piperin tietokoneellasi. Mitään ei lähetetä.",
+  "sayitenglish.difficulty.challenge": "Haaste",
+  "sayitenglish.run.none": "Kierrosta ei vielä ole: se alkaa seuraavasta kysymyksestä. Vinkki: U › Kysymykset › Vaikeus › Haaste.",
+  "sayitenglish.run.title": "SayIt-kierroksesi (%s) tähän mennessä:",
+  "sayitenglish.run.dragon": "Ääreislohikäärme on kuollut! SayIt-kierroksesi (%s):",
+  "sayitenglish.run.time": "Aika: %s",
+  "sayitenglish.run.asked": "Kysytty: %1$s · Oikein: %2$s · Ohi: %3$s",
+  "sayitenglish.run.lost": "Menetetyt esineet: %1$s · Kuolemat: %2$s",
+  "sayitenglish.run.never": "Ei koskaan opittu: %1$s (0/%2$s)",
+  "sayitenglish.run.hardest": "Vaikein: %1$s (%2$s ohi)",
+  "sayitenglish.run.reset": "Uusi kierros: /sayit run reset",
+  "sayitenglish.run.started": "Uusi kierros alkaa seuraavasta kysymyksestä."
 }

@@ -493,5 +493,18 @@
   "sayitenglish.hud.lost.mobs": "ΤΕΡΑΤΑ!",
   "sayitenglish.rules.tips": "Συμβουλές πλήκτρων: %s",
   "sayitenglish.desc.tips": "Μια σύντομη γραμμή με τα πλήκτρα του SayIt στη συνομιλία όταν μπαίνεις σε έναν κόσμο.",
-  "sayitenglish.tips.keys": "SayIt: %1$s ρυθμίσεις · %2$s παύση · %3$s γράψε την απάντηση · %4$s Λεξικό τσέπης · %5$s άκου τη λέξη"
+  "sayitenglish.tips.keys": "SayIt: %1$s ρυθμίσεις · %2$s παύση · %3$s γράψε την απάντηση · %4$s Λεξικό τσέπης · %5$s άκου τη λέξη",
+  "sayitenglish.voice.piper_confirm.title": "Λήψη της φυσικής φωνής;",
+  "sayitenglish.voice.piper_confirm.text": "Το SayIt θα κατεβάσει το πρόγραμμα φωνής ανοιχτού κώδικα Piper (από την έκδοσή του στο GitHub) και μια φωνή για τη γλώσσα σου (από το Hugging Face), περίπου 80 MB, θα τα ελέγξει και θα τρέξει το Piper στον υπολογιστή σου. Δεν στέλνεται τίποτα.",
+  "sayitenglish.difficulty.challenge": "Πρόκληση",
+  "sayitenglish.run.none": "Δεν υπάρχει ακόμα γύρος: ξεκινά με την επόμενη ερώτηση. Συμβουλή: U › Ερωτήσεις › Δυσκολία › Πρόκληση.",
+  "sayitenglish.run.title": "Ο γύρος σου στο SayIt (%s) μέχρι τώρα:",
+  "sayitenglish.run.dragon": "Ο Δράκος του Ender πέθανε! Ο γύρος σου στο SayIt (%s):",
+  "sayitenglish.run.time": "Χρόνος: %s",
+  "sayitenglish.run.asked": "Ερωτήσεις: %1$s · Σωστές: %2$s · Χαμένες: %3$s",
+  "sayitenglish.run.lost": "Χαμένα αντικείμενα: %1$s · Θάνατοι: %2$s",
+  "sayitenglish.run.never": "Δεν το έμαθες ποτέ: %1$s (0 στα %2$s)",
+  "sayitenglish.run.hardest": "Το πιο δύσκολο: %1$s (%2$s αστοχίες)",
+  "sayitenglish.run.reset": "Νέος γύρος: /sayit run reset",
+  "sayitenglish.run.started": "Ένας νέος γύρος ξεκινά με την επόμενη ερώτηση."
 }

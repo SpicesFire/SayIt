@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "モンスター！",
   "sayitenglish.rules.tips": "キーのヒント: %s",
   "sayitenglish.desc.tips": "ワールドに入ったとき、SayIt のキーをチャットに短く表示します。",
-  "sayitenglish.tips.keys": "SayIt: %1$s 設定 · %2$s 一時停止 · %3$s 答えを入力 · %4$s ポケット辞書 · %5$s 単語を聞く"
+  "sayitenglish.tips.keys": "SayIt: %1$s 設定 · %2$s 一時停止 · %3$s 答えを入力 · %4$s ポケット辞書 · %5$s 単語を聞く",
+  "sayitenglish.look.this": "これは%sです。",
+  "sayitenglish.look.that": "あれは%sです。",
+  "sayitenglish.voice.piper_confirm.title": "自然な声をダウンロードしますか？",
+  "sayitenglish.voice.piper_confirm.text": "SayItはオープンソースの音声プログラムPiper（GitHubのリリースから）とあなたの言語の声（Hugging Faceから）、約80 MBをダウンロードし、確認したうえでPiperをあなたのPCで実行します。何も送信されません。",
+  "sayitenglish.difficulty.challenge": "チャレンジ",
+  "sayitenglish.run.none": "まだランはありません。次の質問から始まります。ヒント：U › 問題 › 難易度 › チャレンジ。",
+  "sayitenglish.run.title": "これまでの SayIt ラン（%s）：",
+  "sayitenglish.run.dragon": "エンダードラゴンを倒した！ SayIt ラン（%s）：",
+  "sayitenglish.run.time": "時間：%s",
+  "sayitenglish.run.asked": "出題：%1$s · 正解：%2$s · ミス：%3$s",
+  "sayitenglish.run.lost": "失ったアイテム：%1$s · 死亡：%2$s",
+  "sayitenglish.run.never": "最後まで覚えられなかった：%1$s（%2$s 回中 0）",
+  "sayitenglish.run.hardest": "いちばん難しかった：%1$s（%2$s 回ミス）",
+  "sayitenglish.run.reset": "新しいラン：/sayit run reset",
+  "sayitenglish.run.started": "次の質問から新しいランが始まります。"
 }

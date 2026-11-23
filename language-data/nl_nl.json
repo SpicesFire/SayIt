@@ -493,5 +493,18 @@
   "sayitenglish.hud.lost.mobs": "MONSTERS!",
   "sayitenglish.rules.tips": "Toetstips: %s",
   "sayitenglish.desc.tips": "Een korte regel met de toetsen van SayIt in de chat als je een wereld betreedt.",
-  "sayitenglish.tips.keys": "SayIt: %1$s instellingen · %2$s pauze · %3$s antwoord typen · %4$s Zakwoordenboek · %5$s woord horen"
+  "sayitenglish.tips.keys": "SayIt: %1$s instellingen · %2$s pauze · %3$s antwoord typen · %4$s Zakwoordenboek · %5$s woord horen",
+  "sayitenglish.voice.piper_confirm.title": "Natuurlijke stem downloaden?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt downloadt het opensource-spraakprogramma Piper (van de GitHub-release) en een stem voor jouw taal (van Hugging Face), ongeveer 80 MB, controleert ze en start Piper op je computer. Er wordt niets verstuurd.",
+  "sayitenglish.difficulty.challenge": "Uitdaging",
+  "sayitenglish.run.none": "Nog geen run: die begint bij je volgende vraag. Tip: U › Vragen › Moeilijkheid › Uitdaging.",
+  "sayitenglish.run.title": "Je SayIt-run in het %s tot nu toe:",
+  "sayitenglish.run.dragon": "De Enderdraak is dood! Je SayIt-run in het %s:",
+  "sayitenglish.run.time": "Tijd: %s",
+  "sayitenglish.run.asked": "Gevraagd: %1$s · Goed: %2$s · Gemist: %3$s",
+  "sayitenglish.run.lost": "Verloren voorwerpen: %1$s · Doden: %2$s",
+  "sayitenglish.run.never": "Nooit geleerd: %1$s (0 van %2$s)",
+  "sayitenglish.run.hardest": "Moeilijkst: %1$s (%2$s keer gemist)",
+  "sayitenglish.run.reset": "Nieuwe run: /sayit run reset",
+  "sayitenglish.run.started": "Een nieuwe run begint bij je volgende vraag."
 }

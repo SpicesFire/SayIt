@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "МОНСТРЫ!",
   "sayitenglish.rules.tips": "Подсказки клавиш: %s",
   "sayitenglish.desc.tips": "Короткая строка с клавишами SayIt в чате при входе в мир.",
-  "sayitenglish.tips.keys": "SayIt: %1$s настройки · %2$s пауза · %3$s ввести ответ · %4$s Карманный словарь · %5$s послушать слово"
+  "sayitenglish.tips.keys": "SayIt: %1$s настройки · %2$s пауза · %3$s ввести ответ · %4$s Карманный словарь · %5$s послушать слово",
+  "sayitenglish.look.this": "Это %s.",
+  "sayitenglish.look.that": "Вон там %s.",
+  "sayitenglish.voice.piper_confirm.title": "Скачать живой голос?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt скачает открытую программу озвучки Piper (из релиза на GitHub) и голос для твоего языка (с Hugging Face), около 80 МБ, проверит их и запустит Piper на твоём компьютере. Ничего никуда не отправляется.",
+  "sayitenglish.difficulty.challenge": "Испытание",
+  "sayitenglish.run.none": "Забега ещё нет: он начнётся со следующего вопроса. Совет: U › Вопросы › Сложность › Испытание.",
+  "sayitenglish.run.title": "Твой забег SayIt (%s) на данный момент:",
+  "sayitenglish.run.dragon": "Дракон Края мёртв! Твой забег SayIt (%s):",
+  "sayitenglish.run.time": "Время: %s",
+  "sayitenglish.run.asked": "Вопросов: %1$s · Верно: %2$s · Мимо: %3$s",
+  "sayitenglish.run.lost": "Потеряно предметов: %1$s · Смертей: %2$s",
+  "sayitenglish.run.never": "Так и не выучено: %1$s (0 из %2$s)",
+  "sayitenglish.run.hardest": "Сложнее всего: %1$s (%2$s промахов)",
+  "sayitenglish.run.reset": "Новый забег: /sayit run reset",
+  "sayitenglish.run.started": "Новый забег начнётся со следующего вопроса."
 }

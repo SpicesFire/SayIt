@@ -493,5 +493,20 @@
   "sayitenglish.hud.lost.mobs": "MONSTERS!",
   "sayitenglish.rules.tips": "Key tips: %s",
   "sayitenglish.desc.tips": "A short line with SayIt's keys in the chat when you join a world.",
-  "sayitenglish.tips.keys": "SayIt: %1$s settings · %2$s pause · %3$s type the answer · %4$s Pocket Dictionary · %5$s hear the word"
+  "sayitenglish.tips.keys": "SayIt: %1$s settings · %2$s pause · %3$s type the answer · %4$s Pocket Dictionary · %5$s hear the word",
+  "sayitenglish.look.this": "This is %s.",
+  "sayitenglish.look.that": "That is %s.",
+  "sayitenglish.voice.piper_confirm.title": "Download the natural voice?",
+  "sayitenglish.voice.piper_confirm.text": "SayIt will download the open-source Piper voice program (from its GitHub release) and a voice for your language (from Hugging Face), about 80 MB, check them and run Piper on your computer. Nothing is sent anywhere.",
+  "sayitenglish.difficulty.challenge": "Challenge",
+  "sayitenglish.run.none": "No run yet: it starts with your next question. Tip: U › Questions › Difficulty › Challenge.",
+  "sayitenglish.run.title": "Your SayIt run in %s so far:",
+  "sayitenglish.run.dragon": "The Ender Dragon is dead! Your SayIt run in %s:",
+  "sayitenglish.run.time": "Time: %s",
+  "sayitenglish.run.asked": "Asked: %1$s · Right: %2$s · Missed: %3$s",
+  "sayitenglish.run.lost": "Items lost: %1$s · Deaths: %2$s",
+  "sayitenglish.run.never": "Never learned: %1$s (0 for %2$s)",
+  "sayitenglish.run.hardest": "Hardest: %1$s (%2$s misses)",
+  "sayitenglish.run.reset": "A new run: /sayit run reset",
+  "sayitenglish.run.started": "A new run starts with your next question."
 }
